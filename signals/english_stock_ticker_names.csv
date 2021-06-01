@@ -1,0 +1,3018 @@
+,numerai_ticker,ticker_cleaned,name,market_country
+0,SVW.AX,SVW,seven group holdings,au
+1,GEM.AX,GEM,g8 education,au
+2,VOC.AX,VOC,vocus group,au
+3,AZJ.AX,AZJ,aurizon holdings,au
+4,NXT.AX,NXT,nextdc,au
+5,TWE.AX,TWE,treasury wine estates,au
+6,SGR.AX,SGR,star entertainment group,au
+7,CKF.AX,CKF,collins foods,au
+8,BGA.AX,BGA,bega cheese,au
+9,QUB.AX,QUB,qube holdings,au
+10,MMS.AX,MMS,mcmillan shakespeare,au
+11,AX1.AX,AX1,accent group,au
+12,SUL.AX,SUL,super retail group,au
+13,NCM.AX,NCM,newcrest mining,au
+14,KAR.AX,KAR,karoon energy,au
+15,NCK.AX,NCK,nick scali,au
+16,PRU.AX,PRU,perseus mining,au
+17,REA.AX,REA,rea group,au
+18,CIM.AX,CIM,cimic group,au
+19,LLC.AX,LLC,lendlease group,au
+20,JIN.AX,JIN,jumbo interactive,au
+21,JBH.AX,JBH,jb hifi,au
+22,AMP.AX,AMP,amp,au
+23,QAN.AX,QAN,qantas airways,au
+24,ILU.AX,ILU,iluka resources,au
+25,MGX.AX,MGX,mount gibson iron,au
+26,WOW.AX,WOW,woolworths group,au
+27,SSM.AX,SSM,service stream,au
+28,LYC.AX,LYC,lynas rare earths,au
+29,ASX.AX,ASX,asx,au
+30,PNV.AX,PNV,polynovo,au
+31,ORG.AX,ORG,origin energy,au
+32,CBA.AX,CBA,commonwealth bank australia,au
+33,BLD.AX,BLD,boral,au
+34,ORI.AX,ORI,orica,au
+35,IMD.AX,IMD,imdex,au
+36,DOW.AX,DOW,downer edi,au
+37,ARB.AX,ARB,arb,au
+38,NUF.AX,NUF,nufarm,au
+39,HLS.AX,HLS,healius,au
+40,CPU.AX,CPU,computershare,au
+41,CSL.AX,CSL,csl,au
+42,SUN.AX,SUN,suncorp group,au
+43,RMS.AX,RMS,ramelius resources,au
+44,MND.AX,MND,monadelphous group,au
+45,SFR.AX,SFR,sandfire resources,au
+46,WES.AX,WES,wesfarmers,au
+47,AWC.AX,AWC,alumina,au
+48,FMG.AX,FMG,fortescue metals group,au
+49,TLS.AX,TLS,telstra,au
+50,BPT.AX,BPT,beach energy,au
+51,RHC.AX,RHC,ramsay health care,au
+52,IAG.AX,IAG,insurance australia group,au
+53,SBM.AX,SBM,st barbara,au
+54,CUV.AX,CUV,clinuvel pharmaceuticals,au
+55,PME.AX,PME,pro medicus,au
+56,EOS.AX,EOS,electro optic systems holdings,au
+57,APE.AX,APE,eagers automotive,au
+58,IRE.AX,IRE,iress,au
+59,TNE.AX,TNE,technology one,au
+60,WOR.AX,WOR,worley,au
+61,IPL.AX,IPL,incitec pivot,au
+62,PPT.AX,PPT,perpetual,au
+63,CTD.AX,CTD,corporate travel management,au
+64,SHL.AX,SHL,sonic healthcare,au
+65,WEB.AX,WEB,webjet,au
+66,BOQ.AX,BOQ,bank queensland,au
+67,HSN.AX,HSN,hansen technologies,au
+68,APA.AX,APA,apa group,au
+69,CCP.AX,CCP,credit group,au
+70,BKW.AX,BKW,brickworks,au
+71,FLT.AX,FLT,flight centre travel group,au
+72,ELD.AX,ELD,elders,au
+73,GUD.AX,GUD,gud holdings,au
+74,BEN.AX,BEN,bendigo adelaide bank,au
+75,BKL.AX,BKL,blackmores,au
+76,GNC.AX,GNC,graincorp,au
+77,GWA.AX,GWA,gwa group,au
+78,OZL.AX,OZL,oz minerals,au
+79,BRG.AX,BRG,breville group,au
+80,ALD.AX,ALD,ampol,au
+81,ALQ.AX,ALQ,als,au
+82,ALU.AX,ALU,altium,au
+83,HVN.AX,HVN,harvey norman holdings,au
+84,TCL.AX,TCL,transurban group,au
+85,OBL.AX,OBL,omni bridgeway,au
+86,COH.AX,COH,cochlear,au
+87,ALL.AX,ALL,aristocrat leisure,au
+88,WSA.AX,WSA,western areas,au
+89,OSH.AX,OSH,oil search,au
+90,PMV.AX,PMV,premier investments,au
+91,RSG.AX,RSG,resolute mining,au
+92,JHX.AX,JHX,james hardie industries,au
+93,IGO.AX,IGO,igo,au
+94,RRL.AX,RRL,regis resources,au
+95,BSL.AX,BSL,bluescope steel,au
+96,DEG.AX,DEG,de grey mining,au
+97,EVN.AX,EVN,evolution mining,au
+98,IFL.AX,IFL,ioof holdings,au
+99,IVC.AX,IVC,invocare,au
+100,QBE.AX,QBE,qbe insurance group,au
+101,NST.AX,NST,northern star resources,au
+102,CGF.AX,CGF,challenger,au
+103,TAH.AX,TAH,tabcorp holdings,au
+104,ABC.AX,ABC,adbri,au
+105,PRN.AX,PRN,perenti global,au
+106,ANZ.AX,ANZ,australia new zealand banking group,au
+107,WBC.AX,WBC,westpac banking,au
+108,BHP.AX,BHP,bhp group,au
+109,RIO.AX,RIO,rio tinto group,au
+110,CSR.AX,CSR,csr,au
+111,ANN.AX,ANN,ansell,au
+112,NAB.AX,NAB,national australia bank,au
+113,STO.AX,STO,santos,au
+114,WPL.AX,WPL,woodside petroleum,au
+115,CWY.AX,CWY,cleanaway waste management,au
+116,MTS.AX,MTS,metcash,au
+117,SEK.AX,SEK,seek,au
+118,SYD.AX,SYD,sydney airport,au
+119,MFG.AX,MFG,magellan financial group,au
+120,DMP.AX,DMP,domino's pizza enterprises,au
+121,NEA.AX,NEA,nearmap,au
+122,SGM.AX,SGM,sims,au
+123,VRT.AX,VRT,virtus health,au
+124,PLS.AX,PLS,pilbara minerals,au
+125,SDF.AX,SDF,steadfast group,au
+126,BGL.AX,BGL,bellevue gold,au
+127,EML.AX,EML,eml payments,au
+128,NEC.AX,NEC,nine entertainment holdings,au
+129,ORA.AX,ORA,orora,au
+130,PGH.AX,PGH,pact group holdings,au
+131,CHN.AX,CHN,chalice mining,au
+132,BAP.AX,BAP,bapcor,au
+133,AGL.AX,AGL,agl energy,au
+134,CIA.AX,CIA,champion iron,au
+135,GMA.AX,GMA,genworth mortgage insurance australia,au
+136,SIQ.AX,SIQ,smartgroup,au
+137,GOR.AX,GOR,gold road resources,au
+138,IPH.AX,IPH,iph,au
+139,EHE.AX,EHE,estia health,au
+140,OML.AX,OML,ooh!media,au
+141,LOV.AX,LOV,lovisa holdings,au
+142,APX.AX,APX,appen,au
+143,MIN.AX,MIN,mineral resources,au
+144,AMA.AX,AMA,ama group,au
+145,S32.AX,S32,south32,au
+146,BXB.AX,BXB,brambles,au
+147,AFG.AX,AFG,australian finance group,au
+148,ADH.AX,ADH,adairs,au
+149,HUM.AX,HUM,humm group,au
+150,CGC.AX,CGC,costa group holdings,au
+151,GXY.AX,GXY,galaxy resources,au
+152,RBL.AX,RBL,redbubble,au
+153,LNK.AX,LNK,link administration holdings,au
+154,BWX.AX,BWX,bwx,au
+155,IEL.AX,IEL,idp education,au
+156,TPW.AX,TPW,temple webster group,au
+157,MP1.AX,MP1,megaport,au
+158,AST.AX,AST,ausnet services,au
+159,WTC.AX,WTC,wisetech global,au
+160,SKI.AX,SKI,spark infrastructure group,au
+161,RWC.AX,RWC,reliance worldwide,au
+162,AMI.AX,AMI,aurelia metals,au
+163,NAN.AX,NAN,nanosonics,au
+164,PTM.AX,PTM,platinum investment management,au
+165,WHC.AX,WHC,whitehaven coal,au
+166,PNI.AX,PNI,pinnacle investment management group,au
+167,HUB.AX,HUB,hub24,au
+168,SYR.AX,SYR,syrah resources,au
+169,NWH.AX,NWH,nrw holdings,au
+170,KGN.AX,KGN,kogancom,au
+171,SLR.AX,SLR,silver lake resources,au
+172,MQG.AX,MQG,macquarie group,au
+173,NHF.AX,NHF,nib holdings,au
+174,PDL.AX,PDL,pendal group,au
+175,ORE.AX,ORE,orocobre,au
+176,CWN.AX,CWN,crown resorts,au
+177,ING.AX,ING,inghams group,au
+178,BVS.AX,BVS,bravura solutions,au
+179,WGX.AX,WGX,westgold resources,au
+180,BIN.AX,BIN,bingo industries,au
+181,APT.AX,APT,afterpay,au
+182,DHG.AX,DHG,domain holdings australia,au
+183,TLX.AX,TLX,telix pharmaceuticals,au
+184,NWL.AX,NWL,netwealth group,au
+185,VEA.AX,VEA,viva energy group,au
+186,NIC.AX,NIC,nickel mines,au
+187,ALG.AX,ALG,ardent leisure group,au
+188,COL.AX,COL,coles group,au
+189,UWL.AX,UWL,uniti group,au
+190,PBH.AX,PBH,pointsbet holdings,au
+191,MPL.AX,MPL,medibank private,au
+192,CAR.AX,CAR,carsalescom,au
+193,TYR.AX,TYR,tyro payments,au
+194,NTO.AX,NTO,nitro software,au
+195,UMG.AX,UMG,united malt group,au
+196,TPG.AX,TPG,tpg telecom,au
+197,Z1P.AX,Z1P,zip,au
+198,SXL.AX,SXL,southern cross media group,au
+199,ALX.AX,ALX,atlas arteria,au
+200,SUM.NZ,SUM,summerset group holdings,nz
+201,CNU.NZ,CNU,chorus,nz
+202,AIA.NZ,AIA,auckland international airport,nz
+203,IFT.NZ,IFT,infratil,nz
+204,FPH.NZ,FPH,fisher paykel healthcare,nz
+205,FBU.NZ,FBU,fletcher building,nz
+206,CEN.NZ,CEN,contact energy,nz
+207,ATM.NZ,ATM,a2 milk,nz
+208,RYM.NZ,RYM,ryman healthcare,nz
+209,SKC.NZ,SKC,skycity entertainment group,nz
+210,AIR.NZ,AIR,air new zealand,nz
+211,SPK.NZ,SPK,spark new zealand,nz
+212,MCY.NZ,MCY,mercury nz,nz
+213,ZEL.NZ,ZEL,z energy,nz
+214,MEL.NZ,MEL,meridian energy,nz
+277,MLCO,MLCO,melco resorts entertainment,us
+279,HCM,HCM,hutchmed (china),us
+285,FUTU,FUTU,futu holdings,us
+289,NS8U.SI,NS8U,hutchison port holdings trust,sg
+290,OV8.SI,OV8,sheng siong group,sg
+291,T39.SI,T39,singapore press holdings,sg
+292,C09.SI,C09,city developments,sg
+293,U96.SI,U96,sembcorp industries,sg
+294,BSL.SI,BSL,raffles medical group,sg
+295,U11.SI,U11,united overseas bank,sg
+296,U14.SI,U14,uol group,sg
+297,V03.SI,V03,venture,sg
+298,S63.SI,S63,singapore technologies engineering,sg
+299,S58.SI,S58,sats,sg
+300,S59.SI,S59,sia engineering,sg
+301,S68.SI,S68,singapore exchange,sg
+302,C31.SI,C31,capitaland,sg
+303,AWX.SI,AWX,aem holdings,sg
+304,558.SI,558,ums holdings,sg
+305,C52.SI,C52,comfortdelgro,sg
+306,S08.SI,S08,singapore post,sg
+307,E5H.SI,E5H,golden agriresources,sg
+308,D05.SI,D05,dbs group holdings,sg
+309,S51.SI,S51,sembcorp marine,sg
+310,C07.SI,C07,jardine cycle carriage,sg
+311,G13.SI,G13,genting singapore,sg
+312,C6L.SI,C6L,singapore airlines,sg
+313,Z74.SI,Z74,singapore telecommunications,sg
+314,E28.SI,E28,frencken group,sg
+315,O39.SI,O39,overseachinese banking,sg
+316,F34.SI,F34,wilmar international,sg
+317,8K7.SI,8K7,ug healthcare,sg
+318,CC3.SI,CC3,starhub,sg
+319,BN4.SI,BN4,keppel,sg
+320,EB5.SI,EB5,first resources,sg
+321,CJLU.SI,CJLU,netlink nbn trust,sg
+322,SE,SE,sea,us
+861,SIMO,SIMO,silicon motion technology,us
+871,HIMX,HIMX,himax technologies,us
+896,BPY-UN.TO,BPY,brookfield property partners lp,ca
+897,PRMW.TO,PRMW,primo water,ca
+898,ECN.TO,ECN,ecn capital,ca
+899,EDV.TO,EDV,endeavour mining,ca
+900,BEP-UN.TO,BEP,brookfield renewable partners lp,ca
+901,BIP-UN.TO,BIP,brookfield infrastructure partners lp,ca
+902,OGC.TO,OGC,oceanagold,ca
+903,AEM.TO,AEM,agnico eagle mines,ca
+904,ACO-X.TO,ACO,atco,ca
+905,ABX.TO,ABX,barrick gold,ca
+906,BCE.TO,BCE,bce,ca
+907,BAM-A.TO,BAM,brookfield asset management,ca
+908,T.TO,T,telus,ca
+909,CAE.TO,CAE,cae,ca
+910,MFI.TO,MFI,maple leaf foods,ca
+911,CNR.TO,CNR,canadian national railway,ca
+912,CP.TO,CP,canadian pacific railway,ca
+913,CTC-A.TO,CTC,canadian tire,ca
+914,RUS.TO,RUS,russel metals,ca
+915,FTT.TO,FTT,finning international,ca
+916,IMO.TO,IMO,imperial oil,ca
+917,ENB.TO,ENB,enbridge,ca
+918,L.TO,L,loblaw companies,ca
+919,MG.TO,MG,magna international,ca
+920,K.TO,K,kinross gold,ca
+921,POW.TO,POW,power canada,ca
+922,QBR-B.TO,QBR,quebecor,ca
+923,RCI-B.TO,RCI,rogers communications,ca
+924,TECK-B.TO,TECK,teck resources,ca
+925,TRP.TO,TRP,tc energy,ca
+926,WN.TO,WN,george weston,ca
+927,SOY.TO,SOY,sunopta,ca
+928,MX.TO,MX,methanex,ca
+929,CFP.TO,CFP,canfor,ca
+930,CCL-B.TO,CCL,ccl industries,ca
+931,CAS.TO,CAS,cascades,ca
+932,EMP-A.TO,EMP,empire,ca
+933,ONEX.TO,ONEX,onex,ca
+934,WFG.TO,WFG,west fraser timber,ca
+935,IGM.TO,IGM,igm financial,ca
+936,SNC.TO,SNC,snclavalin group,ca
+937,SJR-B.TO,SJR,shaw communications,ca
+938,FTS.TO,FTS,fortis,ca
+939,TA.TO,TA,transalta,ca
+940,CU.TO,CU,canadian utilities,ca
+941,X.TO,X,tmx group,ca
+942,TIH.TO,TIH,toromont industries,ca
+943,IFP.TO,IFP,interfor,ca
+944,PKI.TO,PKI,parkland,ca
+945,CNQ.TO,CNQ,canadian natural resources,ca
+946,SU.TO,SU,suncor energy,ca
+947,TCL-A.TO,TCL,transcontinental,ca
+948,BMO.TO,BMO,bank montreal,ca
+949,CM.TO,CM,canadian imperial bank commerce,ca
+950,BNS.TO,BNS,bank nova scotia,ca
+951,NA.TO,NA,national bank canada,ca
+952,RY.TO,RY,royal bank canada,ca
+953,TRI.TO,TRI,thomson reuters,ca
+954,TD.TO,TD,torontodominion bank,ca
+955,IVN.TO,IVN,ivanhoe mines,ca
+956,FFH.TO,FFH,fairfax financial holdings,ca
+957,GWO.TO,GWO,greatwest lifeco,ca
+958,LB.TO,LB,laurentian bank canada,ca
+959,NTR.TO,NTR,nutrien,ca
+960,NXE.TO,NXE,nexgen energy,ca
+961,EQX.TO,EQX,equinox gold,ca
+962,RNW.TO,RNW,transalta renewables,ca
+963,ARE.TO,ARE,aecon group,ca
+964,DPM.TO,DPM,dundee precious metals,ca
+965,WEED.TO,WEED,canopy growth,ca
+966,ERF.TO,ERF,enerplus,ca
+967,OSK.TO,OSK,osisko mining,ca
+968,CWB.TO,CWB,canadian western bank,ca
+969,HCG.TO,HCG,home capital group,ca
+970,LNR.TO,LNR,linamar,ca
+971,PAAS.TO,PAAS,pan american silver,ca
+972,PSK.TO,PSK,prairiesky royalty,ca
+973,KXS.TO,KXS,kinaxis,ca
+974,WPK.TO,WPK,winpak,ca
+975,AT.TO,AT,acuityads holdings,ca
+976,OGI.TO,OGI,organigram holdings,ca
+977,GIB-A.TO,GIB,cgi,ca
+978,MRU.TO,MRU,metro,ca
+979,CRON.TO,CRON,cronos group,ca
+980,SHOP.TO,SHOP,shopify,ca
+981,NWC.TO,NWC,north west,ca
+982,FSV.TO,FSV,firstservice,ca
+983,CCO.TO,CCO,cameco,ca
+984,ITP.TO,ITP,intertape polymer group,ca
+985,H.TO,H,hydro one,ca
+986,ZZZ.TO,ZZZ,sleep country canada holdings,ca
+987,TOY.TO,TOY,spin master,ca
+988,EMA.TO,EMA,emera,ca
+989,SIL.TO,SIL,silvercrest metals,ca
+990,ELD.TO,ELD,eldorado gold,ca
+991,SSRM.TO,SSRM,ssr mining,ca
+992,TXG.TO,TXG,torex gold resources,ca
+993,CIGI.TO,CIGI,colliers international group,ca
+994,CCA.TO,CCA,cogeco communications,ca
+995,RCH.TO,RCH,richelieu hardware,ca
+996,BLDP.TO,BLDP,ballard power systems,ca
+997,BHC.TO,BHC,bausch health companies,ca
+998,STN.TO,STN,stantec,ca
+999,VET.TO,VET,vermilion energy,ca
+1000,CIX.TO,CIX,ci financial,ca
+1001,SJ.TO,SJ,stellajones,ca
+1002,GOOS.TO,GOOS,canada goose holdings,ca
+1003,MTL.TO,MTL,mullen group,ca
+1004,REAL.TO,REAL,real matters,ca
+1005,YRI.TO,YRI,yamana gold,ca
+1006,JWEL.TO,JWEL,jamieson wellness,ca
+1007,ERO.TO,ERO,ero copper,ca
+1008,LSPD.TO,LSPD,lightspeed pos,ca
+1009,GFL.TO,GFL,gfl environmental,ca
+1010,OTEX.TO,OTEX,open text,ca
+1011,IMG.TO,IMG,iamgold,ca
+1012,TRQ.TO,TRQ,turquoise hill resources,ca
+1013,ENGH.TO,ENGH,enghouse systems,ca
+1014,PBH.TO,PBH,premium brands holdings,ca
+1015,LIF.TO,LIF,labrador iron ore royalty,ca
+1016,NPI.TO,NPI,northland power,ca
+1017,ATD-B.TO,ATD,alimentation couchetard,ca
+1018,DML.TO,DML,denison mines,ca
+1019,MRE.TO,MRE,martinrea international,ca
+1020,RBA.TO,RBA,ritchie bros auctioneers,ca
+1021,SAP.TO,SAP,saputo,ca
+1022,SPB.TO,SPB,superior plus,ca
+1023,BB.TO,BB,blackberry,ca
+1024,IPL.TO,IPL,inter pipeline,ca
+1025,DSG.TO,DSG,descartes systems group,ca
+1026,WTE.TO,WTE,westshore terminals investment,ca
+1027,ARX.TO,ARX,arc resources,ca
+1029,BLX.TO,BLX,boralex,ca
+1030,KL.TO,KL,kirkland lake gold,ca
+1031,WPM.TO,WPM,wheaton precious metals,ca
+1032,NGD.TO,NGD,new gold,ca
+1033,SEA.TO,SEA,seabridge gold,ca
+1034,FM.TO,FM,first quantum minerals,ca
+1035,FVI.TO,FVI,fortuna silver mines,ca
+1036,EDR.TO,EDR,endeavour silver,ca
+1037,OR.TO,OR,osisko gold royalties,ca
+1038,HBM.TO,HBM,hudbay minerals,ca
+1039,LUN.TO,LUN,lundin mining,ca
+1040,SVM.TO,SVM,silvercorp metals,ca
+1041,FR.TO,FR,first majestic silver,ca
+1042,WPRT.TO,WPRT,westport fuel systems,ca
+1043,WCN.TO,WCN,waste connections,ca
+1044,GIL.TO,GIL,gildan activewear,ca
+1045,CLS.TO,CLS,celestica,ca
+1046,AQN.TO,AQN,algonquin power utilities,ca
+1047,AUP.TO,AUP,aurinia pharmaceuticals,ca
+1048,ALA.TO,ALA,altagas,ca
+1049,CJR-B.TO,CJR,corus entertainment,ca
+1050,AGI.TO,AGI,alamos gold,ca
+1051,MFC.TO,MFC,manulife financial,ca
+1052,BYD.TO,BYD,boyd group services,ca
+1053,WDO.TO,WDO,wesdome gold mines,ca
+1054,IAG.TO,IAG,ia financial,ca
+1055,PPL.TO,PPL,pembina pipeline,ca
+1056,SLF.TO,SLF,sun life financial,ca
+1057,MAG.TO,MAG,mag silver,ca
+1058,CPG.TO,CPG,crescent point energy,ca
+1059,TFII.TO,TFII,tfi international,ca
+1060,EIF.TO,EIF,exchange income,ca
+1061,KEY.TO,KEY,keyera,ca
+1062,INE.TO,INE,innergex renewable energy,ca
+1063,VFF.TO,VFF,village farms international,ca
+1064,CG.TO,CG,centerra gold,ca
+1065,IFC.TO,IFC,intact financial,ca
+1066,TRIL.TO,TRIL,trillium therapeutics,ca
+1067,DOO.TO,DOO,brp,ca
+1068,AIF.TO,AIF,altus group,ca
+1069,CJT.TO,CJT,cargojet,ca
+1070,AC.TO,AC,air canada,ca
+1071,QSR.TO,QSR,restaurant brands international,ca
+1072,EFN.TO,EFN,element fleet management,ca
+1073,NFI.TO,NFI,nfi group,ca
+1074,CSU.TO,CSU,constellation software,ca
+1075,SSL.TO,SSL,sandstorm gold,ca
+1076,FNV.TO,FNV,franconevada,ca
+1077,BTO.TO,BTO,b2gold,ca
+1078,SII.TO,SII,sprott,ca
+1079,LAC.TO,LAC,lithium americas,ca
+1080,CPX.TO,CPX,capital power,ca
+1081,DOL.TO,DOL,dollarama,ca
+1082,CVE.TO,CVE,cenovus energy,ca
+1083,PXT.TO,PXT,parex resources,ca
+1084,SIA.TO,SIA,sienna senior living,ca
+1085,TCN.TO,TCN,tricon residential,ca
+1086,WCP.TO,WCP,whitecap resources,ca
+1087,MEG.TO,MEG,meg energy,ca
+1088,TOU.TO,TOU,tourmaline oil,ca
+1089,PVG.TO,PVG,pretium resources,ca
+1090,ATZ.TO,ATZ,aritzia,ca
+1091,GEI.TO,GEI,gibson energy,ca
+1092,WSP.TO,WSP,wsp global,ca
+1106,LHC.JO,LHC,life healthcare group holdings,za
+1107,RBP.JO,RBP,royal bafokeng platinum,za
+1108,NPN.JO,NPN,naspers,za
+1109,NED.JO,NED,nedbank group,za
+1110,NTC.JO,NTC,netcare,za
+1111,SBK.JO,SBK,standard bank group,za
+1112,SPP.JO,SPP,spar group,za
+1113,LBH.JO,LBH,liberty holdings,za
+1114,ARL.JO,ARL,astral foods,za
+1115,WHL.JO,WHL,woolworths holdings,za
+1116,DSY.JO,DSY,discovery,za
+1117,APN.JO,APN,aspen pharmacare holdings,za
+1118,TKG.JO,TKG,telkom soc,za
+1119,ABG.JO,ABG,absa group,za
+1120,SPG.JO,SPG,super group,za
+1121,AVI.JO,AVI,avi,za
+1122,ARI.JO,ARI,african rainbow minerals,za
+1123,MSM.JO,MSM,massmart holdings,za
+1124,REM.JO,REM,remgro,za
+1125,MTN.JO,MTN,mtn group,za
+1126,ANG.JO,ANG,anglogold ashanti,za
+1127,SAP.JO,SAP,sappi,za
+1128,SOL.JO,SOL,sasol,za
+1129,TBS.JO,TBS,tiger brands,za
+1130,MRP.JO,MRP,mr price group,za
+1131,TFG.JO,TFG,foschini group,za
+1132,NHM.JO,NHM,northam platinum,za
+1133,BVT.JO,BVT,bidvest group,za
+1134,CLS.JO,CLS,clicks group,za
+1135,EXX.JO,EXX,exxaro resources,za
+1136,PIK.JO,PIK,pick n pay stores,za
+1137,SHP.JO,SHP,shoprite holdings,za
+1138,HAR.JO,HAR,harmony gold mining,za
+1139,CPI.JO,CPI,capitec bank holdings,za
+1140,AMS.JO,AMS,anglo american platinum,za
+1141,BAW.JO,BAW,barloworld,za
+1142,TRU.JO,TRU,truworths international,za
+1143,GFI.JO,GFI,gold fields,za
+1144,FSR.JO,FSR,firstrand,za
+1145,TCP.JO,TCP,transaction capital,za
+1146,IPL.JO,IPL,imperial logistics,za
+1147,JSE.JO,JSE,jse,za
+1148,IMP.JO,IMP,impala platinum holdings,za
+1149,KIO.JO,KIO,kumba iron ore,za
+1150,BID.JO,BID,bid,za
+1151,DCP.JO,DCP,dischem pharmacies,za
+1152,NRP.JO,NRP,nepi rockcastle,za
+1153,PPH.JO,PPH,pepkor holdings,za
+1154,VOD.JO,VOD,vodacom group,za
+1155,DGH.JO,DGH,distell group holdings,za
+1156,OMU.JO,OMU,old mutual,za
+1157,MTH.JO,MTH,motus holdings,za
+1158,MCG.JO,MCG,multichoice group,za
+1240,MTLS,MTLS,materialise,us
+1280,ASND,ASND,ascendis pharma,us
+1323,SQNS,SQNS,sequans communications,us
+1402,CRTO,CRTO,criteo,us
+1427,TLND,TLND,talend,us
+1579,JMIA,JMIA,jumia technologies,us
+1582,BNTX,BNTX,biontech,us
+1583,KRZ.IR,KRZ,kerry group,ie
+1584,FLTR.IR,FLTR,flutter entertainment,ie
+1585,GL9.IR,GL9,glanbia,ie
+1586,CRG.IR,CRG,crh,ie
+1587,KRX.IR,KRX,kingspan group,ie
+1588,IR5B.IR,IR5B,irish continental group,ie
+1589,DHG.IR,DHG,dalata hotel group,ie
+1590,T7O.IR,T7O,total produce,ie
+1591,RY4C.IR,RY4C,ryanair holdings,ie
+1592,SK3.IR,SK3,smurfit kappa group,ie
+1593,FLY,FLY,fly leasing,us
+1594,BIRG.IR,BIRG,bank ireland group,ie
+1595,GVR.IR,GVR,glenveagh properties,ie
+1596,A5G.IR,A5G,aib group,ie
+1597,UPR.IR,UPR,uniphar,ie
+1611,RDHL,RDHL,redhill biopharma,us
+1612,TEVA,TEVA,teva pharmaceutical industries,us
+1799,GRFS,GRFS,grifols,us
+2042,SDRY.L,SDRY,superdry,gb
+2043,ENT.L,ENT,entain,gb
+2044,JUP.L,JUP,jupiter fund management,gb
+2045,OCDO.L,OCDO,ocado group,gb
+2046,IAG.L,IAG,international consolidated airlines group,gb
+2047,GLEN.L,GLEN,glencore,gb
+2048,GENL.L,GENL,genel energy,gb
+2049,CEY.L,CEY,centamin,gb
+2050,CNA.L,CNA,centrica,gb
+2051,MSLH.L,MSLH,marshalls,gb
+2052,HFD.L,HFD,halfords group,gb
+2053,RDSB.L,RDSB,royal dutch shell,gb
+2054,PFD.L,PFD,premier foods,gb
+2055,SBRY.L,SBRY,j sainsbury,gb
+2056,GKP.L,GKP,gulf keystone petroleum,gb
+2057,ADM.L,ADM,admiral group,gb
+2058,GRI.L,GRI,grainger,gb
+2059,CHG.L,CHG,chemring group,gb
+2060,CKN.L,CKN,clarkson,gb
+2061,GNS.L,GNS,genus,gb
+2062,RAT.L,RAT,rathbone brothers,gb
+2063,AV.L,AV,aviva,gb
+2064,CWK.L,CWK,cranswick,gb
+2065,CRDA.L,CRDA,croda international,gb
+2066,FUTR.L,FUTR,future,gb
+2067,RDW.L,RDW,redrow,gb
+2068,SMP.L,SMP,st modwen properties,gb
+2069,RSW.L,RSW,renishaw,gb
+2070,RTO.L,RTO,rentokil initial,gb
+2071,ROR.L,ROR,rotork,gb
+2072,NWG.L,NWG,natwest group,gb
+2073,ANTO.L,ANTO,antofagasta,gb
+2074,AHT.L,AHT,ashtead group,gb
+2075,BHP.L,BHP,bhp group,gb
+2076,AVON.L,AVON,avon rubber,gb
+2077,BDEV.L,BDEV,barratt developments,gb
+2078,BWY.L,BWY,bellway,gb
+2079,GAW.L,GAW,games workshop group,gb
+2080,GOG.L,GOG,goahead group,gb
+2081,HLMA.L,HLMA,halma,gb
+2082,HAS.L,HAS,hays,gb
+2083,DMGT.L,DMGT,daily mail general trust,gb
+2084,WEIR.L,WEIR,weir group,gb
+2085,DPH.L,DPH,dechra pharmaceuticals,gb
+2086,BAB.L,BAB,babcock international group,gb
+2087,SYNT.L,SYNT,synthomer,gb
+2088,AZN.L,AZN,astrazeneca,gb
+2089,CBG.L,CBG,close brothers group,gb
+2090,STJ.L,STJ,st james's place,gb
+2091,TPK.L,TPK,travis perkins,gb
+2092,SSE.L,SSE,sse,gb
+2093,SNR.L,SNR,senior,gb
+2094,SRP.L,SRP,serco group,gb
+2095,BP.L,BP,bp,gb
+2096,SGE.L,SGE,sage group,gb
+2097,SHI.L,SHI,sig,gb
+2098,MGNS.L,MGNS,morgan sindall group,gb
+2099,SMDS.L,SMDS,ds smith,gb
+2100,NXT.L,NXT,next,gb
+2101,COA.L,COA,coats group,gb
+2102,RR.L,RR,rollsroyce holdings,gb
+2103,BNZL.L,BNZL,bunzl,gb
+2104,JDW.L,JDW,j d wetherspoon,gb
+2105,EZJ.L,EZJ,easyjet,gb
+2106,BRW.L,BRW,brewin dolphin holdings,gb
+2107,DPLM.L,DPLM,diploma,gb
+2108,VTY.L,VTY,vistry group,gb
+2109,PRU.L,PRU,prudential,gb
+2110,BATS.L,BATS,british american tobacco,gb
+2111,ECM.L,ECM,electrocomponents,gb
+2112,SPX.L,SPX,spiraxsarco engineering,gb
+2113,LLOY.L,LLOY,lloyds banking group,gb
+2114,TATE.L,TATE,tate lyle,gb
+2115,TW.L,TW,taylor wimpey,gb
+2116,TEP.L,TEP,telecom plus,gb
+2117,TSCO.L,TSCO,tesco,gb
+2118,WG.L,WG,john wood group,gb
+2119,ITRK.L,ITRK,intertek group,gb
+2120,BRBY.L,BRBY,burberry group,gb
+2121,BBY.L,BBY,balfour beatty,gb
+2122,AGK.L,AGK,aggreko,gb
+2123,TLW.L,TLW,tullow oil,gb
+2124,HILS.L,HILS,hill smith holdings,gb
+2125,IMB.L,IMB,imperial brands,gb
+2126,ICP.L,ICP,intermediate capital group,gb
+2127,IMI.L,IMI,imi,gb
+2128,PAGE.L,PAGE,pagegroup,gb
+2129,ITV.L,ITV,itv,gb
+2130,HSV.L,HSV,homeserve,gb
+2131,DGE.L,DGE,diageo,gb
+2132,SDR.L,SDR,schroders,gb
+2133,ELM.L,ELM,elementis,gb
+2134,HYVE.L,HYVE,hyve group,gb
+2135,BA.L,BA,bae systems,gb
+2136,DVO.L,DVO,devro,gb
+2137,SXS.L,SXS,spectris,gb
+2138,FGP.L,FGP,firstgroup,gb
+2139,MTO.L,MTO,mitie group,gb
+2140,JMAT.L,JMAT,johnson matthey,gb
+2141,JD.L,JD,jd sports fashion,gb
+2142,CPG.L,CPG,compass group,gb
+2143,HWDN.L,HWDN,howden joinery group,gb
+2144,LGEN.L,LGEN,legal general group,gb
+2145,APF.L,APF,anglo pacific group,gb
+2146,RSA.L,RSA,rsa insurance group,gb
+2147,OXB.L,OXB,oxford biomedica,gb
+2148,OXIG.L,OXIG,oxford instruments,gb
+2149,ABF.L,ABF,associated british foods,gb
+2150,PSON.L,PSON,pearson,gb
+2151,PSN.L,PSN,persimmon,gb
+2152,RCH.L,RCH,reach,gb
+2153,ULE.L,ULE,ultra electronics holdings,gb
+2154,SN.L,SN,smith nephew,gb
+2155,GSK.L,GSK,glaxosmithkline,gb
+2156,VCT.L,VCT,victrex,gb
+2157,MGGT.L,MGGT,meggitt,gb
+2158,MNZS.L,MNZS,john menzies,gb
+2159,MGAM.L,MGAM,morgan advanced materials,gb
+2160,MRW.L,MRW,wm morrison supermarkets,gb
+2161,NEX.L,NEX,national express group,gb
+2162,BT-A.L,BT,bt group,gb
+2163,CCL.L,CCL,carnival,gb
+2164,MKS.L,MKS,marks spencer group,gb
+2165,KGF.L,KGF,kingfisher,gb
+2166,STAN.L,STAN,standard chartered,gb
+2167,HSBA.L,HSBA,hsbc holdings,gb
+2168,RIO.L,RIO,rio tinto group,gb
+2169,BARC.L,BARC,barclays,gb
+2170,DLG.L,DLG,direct line insurance group,gb
+2171,EMG.L,EMG,man group,gb
+2172,BKG.L,BKG,berkeley group holdings,gb
+2173,IGG.L,IGG,ig group holdings,gb
+2174,MCRO.L,MCRO,micro focus international,gb
+2175,VSVS.L,VSVS,vesuvius,gb
+2176,WPP.L,WPP,wpp,gb
+2177,ESNT.L,ESNT,essentra,gb
+2178,CRST.L,CRST,crest nicholson holdings,gb
+2179,NG.L,NG,national grid,gb
+2180,888.L,888,888 holdings,gb
+2181,PFC.L,PFC,petrofac,gb
+2182,HIK.L,HIK,hikma pharmaceuticals,gb
+2183,RMG.L,RMG,royal mail,gb
+2184,ARW.L,ARW,arrow global group,gb
+2185,STCK.L,STCK,stock spirits group,gb
+2186,JUST.L,JUST,just group,gb
+2187,BVIC.L,BVIC,britvic,gb
+2188,LRE.L,LRE,lancashire holdings,gb
+2189,AO.L,AO,ao world,gb
+2190,QQ.L,QQ,qinetiq group,gb
+2191,RTN.L,RTN,restaurant group,gb
+2192,SOLG.L,SOLG,solgold,gb
+2193,PETS.L,PETS,pets at home group,gb
+2195,CARD.L,CARD,card factory,gb
+2196,LSEG.L,LSEG,london stock exchange group,gb
+2197,ULVR.L,ULVR,unilever,gb
+2198,PTEC.L,PTEC,playtech,gb
+2199,BME.L,BME,bm european value retail,gb
+2200,SSPG.L,SSPG,ssp group,gb
+2201,SVS.L,SVS,savills,gb
+2202,CMCX.L,CMCX,cmc markets,gb
+2203,CINE.L,CINE,cineworld group,gb
+2204,CCC.L,CCC,computacenter,gb
+2205,INDV.L,INDV,indivior,gb
+2206,VOD.L,VOD,vodafone group,gb
+2207,INVP.L,INVP,investec group,gb
+2208,SLA.L,SLA,standard life aberdeen,gb
+2209,PNN.L,PNN,pennon group,gb
+2210,JLG.L,JLG,john laing group,gb
+2211,WIZZ.L,WIZZ,wizz air holdings,gb
+2212,PZC.L,PZC,pz cussons,gb
+2213,EXPN.L,EXPN,experian,gb
+2214,AUTO.L,AUTO,auto trader group,gb
+2215,SNN.L,SNN,sanne group,gb
+2216,SVT.L,SVT,severn trent,gb
+2217,ADAP,ADAP,adaptimmune therapeutics,us
+2218,MAB.L,MAB,mitchells butlers,gb
+2219,ASHM.L,ASHM,ashmore group,gb
+2220,DNLM.L,DNLM,dunelm group,gb
+2221,HSX.L,HSX,hiscox,gb
+2222,HOC.L,HOC,hochschild mining,gb
+2223,SIG.L,SIG,signature aviation,gb
+2224,MARS.L,MARS,marston's,gb
+2225,WTB.L,WTB,whitbread,gb
+2226,RNK.L,RNK,rank group,gb
+2227,OTB.L,OTB,on beach group,gb
+2228,MRO.L,MRO,melrose industries,gb
+2229,EQN.L,EQN,equiniti group,gb
+2230,IBST.L,IBST,ibstock,gb
+2231,GYM.L,GYM,gym group,gb
+2232,SCT.L,SCT,softcat,gb
+2233,VEC.L,VEC,vectura group,gb
+2234,NCC.L,NCC,ncc group,gb
+2235,MNDI.L,MNDI,mondi,gb
+2236,CSP.L,CSP,countryside properties,gb
+2237,FRAS.L,FRAS,frasers group,gb
+2238,ASCL.L,ASCL,ascential,gb
+2239,BEZ.L,BEZ,beazley,gb
+2240,DOM.L,DOM,domino's pizza group,gb
+2241,FORT.L,FORT,forterra,gb
+2242,DRX.L,DRX,drax group,gb
+2243,SGC.L,SGC,stagecoach group,gb
+2244,HL.L,HL,hargreaves lansdown,gb
+2245,SRE.L,SRE,sirius real estate,gb
+2246,IHG.L,IHG,intercontinental hotels group,gb
+2247,SMIN.L,SMIN,smiths group,gb
+2248,AAL.L,AAL,anglo american,gb
+2249,III.L,III,3i group,gb
+2250,PFG.L,PFG,provident financial,gb
+2251,CPI.L,CPI,capita,gb
+2252,MONY.L,MONY,moneysupermarketcom group,gb
+2254,GYS.L,GYS,gamesys group,gb
+2255,RB.L,RB,reckitt benckiser group,gb
+2256,TYMN.L,TYMN,tyman,gb
+2257,RMV.L,RMV,rightmove,gb
+2258,REL.L,REL,relx,gb
+2259,PAG.L,PAG,paragon banking group,gb
+2260,CTEC.L,CTEC,convatec group,gb
+2261,TIFS.L,TIFS,ti fluid systems,gb
+2262,BIFF.L,BIFF,biffa,gb
+2263,SMWH.L,SMWH,wh smith,gb
+2264,IWG.L,IWG,iwg,gb
+2265,FRES.L,FRES,fresnillo,gb
+2266,UU.L,UU,united utilities group,gb
+2267,DLAR.L,DLAR,de la rue,gb
+2268,BOY.L,BOY,bodycote,gb
+2269,GLO.L,GLO,contourglobal,gb
+2270,SBRE.L,SBRE,sabre insurance group,gb
+2271,GRG.L,GRG,greggs,gb
+2272,IHP.L,IHP,integrafin holdings,gb
+2273,AVV.L,AVV,aveva group,gb
+2274,ENOG.L,ENOG,energean,gb
+2275,VVO.L,VVO,vivo energy,gb
+2276,QLT.L,QLT,quilter,gb
+2277,AUTL,AUTL,autolus therapeutics,us
+2278,AVST.L,AVST,avast,gb
+2279,DAVA,DAVA,endava,us
+2280,PHNX.L,PHNX,phoenix group holdings,gb
+2281,SFOR.L,SFOR,s4 capital,gb
+2282,ORTX,ORTX,orchard therapeutics,us
+2283,INF.L,INF,informa,gb
+2284,FERG.L,FERG,ferguson,gb
+2285,WOSG.L,WOSG,watches switzerland group,gb
+2286,AJB.L,AJB,aj bell,gb
+2287,AAF.L,AAF,airtel africa,gb
+2288,TRN.L,TRN,trainline,gb
+2289,REDD.L,REDD,redde northgate,gb
+2290,MNG.L,MNG,mg,gb
+2291,HTWS.L,HTWS,helios towers,gb
+2292,N91.L,N91,ninety one group,gb
+2293,SAGA.L,SAGA,saga,gb
+2294,OSB.L,OSB,osb group,gb
+2295,TCAP.L,TCAP,tp icap group,gb
+2296,CNE.L,CNE,cairn energy,gb
+2297,DC.L,DC,dixons carphone,gb
+2298,ENQ.L,ENQ,enquest,gb
+2299,INCH.L,INCH,inchcape,gb
+3139,VIST,VIST,vista oil gas de,us
+3140,AIR,AIR,aar,us
+3141,AAL,AAL,american airlines group,us
+3142,PNW,PNW,pinnacle west capital,us
+3143,PRG,PRG,prog holdings,us
+3144,ABT,ABT,abbott laboratories,us
+3145,AMD,AMD,advanced micro devices,us
+3146,APD,APD,air products chemicals,us
+3147,ALK,ALK,alaska air group,us
+3148,MATX,MATX,matson,us
+3149,HON,HON,honeywell international,us
+3150,SWKS,SWKS,skyworks solutions,us
+3151,HES,HES,hess,us
+3152,ABM,ABM,abm industries,us
+3153,PRI,PRI,primerica,us
+3154,ECOL,ECOL,us ecology,us
+3155,AEP,AEP,american electric power,us
+3156,AXP,AXP,american express,us
+3157,AFL,AFL,aflac,us
+3158,AIG,AIG,american international group,us
+3159,AMSWA,AMSWA,american software,us
+3160,AME,AME,ametek,us
+3161,AMGN,AMGN,amgen,us
+3162,ADI,ADI,analog devices,us
+3163,ANDE,ANDE,andersons,us
+3164,NBR,NBR,nabors industries,us
+3165,APA,APA,apa,us
+3166,APOG,APOG,apogee enterprises,us
+3167,AAPL,AAPL,apple,us
+3168,AMAT,AMAT,applied materials,us
+3169,EPAC,EPAC,enerpac tool group,us
+3170,ADM,ADM,archerdanielsmidland,us
+3171,ARCB,ARCB,arcbest,us
+3172,ARW,ARW,arrow electronics,us
+3173,ASH,ASH,ashland global holdings,us
+3174,ATRO,ATRO,astronics,us
+3175,ADSK,ADSK,autodesk,us
+3176,ADP,ADP,automatic data processing,us
+3177,AVY,AVY,avery dennison,us
+3178,AVT,AVT,avnet,us
+3179,AZZ,AZZ,azz,us
+3180,BMI,BMI,badger meter,us
+3181,BCPC,BCPC,balchem,us
+3182,BLL,BLL,ball,us
+3183,BPOP,BPOP,popular,us
+3184,BOH,BOH,bank hawaii,us
+3185,BK,BK,bank new york mellon,us
+3186,B,B,barnes group,us
+3187,BAX,BAX,baxter international,us
+3188,AIT,AIT,applied industrial technologies,us
+3189,BDX,BDX,becton dickinson,us
+3190,VZ,VZ,verizon communications,us
+3191,BRK-B,BRK,berkshire hathaway,us
+3192,BBY,BBY,best buy,us
+3193,BIO,BIO,biorad laboratories,us
+3194,BKH,BKH,black hills,us
+3195,HRB,HRB,hr block,us
+3196,BA,BA,boeing,us
+3197,RHI,RHI,robert half international,us
+3198,BRC,BRC,brady,us
+3199,BMY,BMY,bristolmyers squibb,us
+3200,BF-B,BF,brownforman,us
+3201,BF-A,BF,brownforman,us
+3202,CAL,CAL,caleres,us
+3203,BC,BC,brunswick,us
+3204,MTZ,MTZ,mastec,us
+3205,UIS,UIS,unisys,us
+3206,RAMP,RAMP,liveramp holdings,us
+3207,CI,CI,cigna,us
+3208,CSX,CSX,csx,us
+3209,CTS,CTS,cts,us
+3210,CBT,CBT,cabot,us
+3211,CACI,CACI,caci international,us
+3212,CAMP,CAMP,calamp,us
+3213,CWT,CWT,california water service group,us
+3214,CPB,CPB,campbell soup,us
+3215,STZ,STZ,constellation brands,us
+3216,CAH,CAH,cardinal health,us
+3217,CSL,CSL,carlisle companies,us
+3218,CRS,CRS,carpenter technology,us
+3219,CASY,CASY,casey's general stores,us
+3220,CAT,CAT,caterpillar,us
+3221,CVCO,CVCO,cavco industries,us
+3222,LUMN,LUMN,lumen technologies,us
+3223,MGLN,MGLN,magellan health,us
+3224,CMD,CMD,cantel medical,us
+3225,CHE,CHE,chemed,us
+3226,JPM,JPM,jpmorgan chase,us
+3227,CPK,CPK,chesapeake utilities,us
+3228,CVX,CVX,chevron,us
+3229,EAT,EAT,brinker international,us
+3230,CHD,CHD,church dwight,us
+3231,CHDN,CHDN,churchill downs,us
+3232,CTAS,CTAS,cintas,us
+3233,IHRT,IHRT,iheartmedia,us
+3234,CLF,CLF,clevelandcliffs,us
+3235,CLX,CLX,clorox,us
+3236,KO,KO,cocacola,us
+3237,CDE,CDE,coeur mining,us
+3238,COHR,COHR,coherent,us
+3239,COHU,COHU,cohu,us
+3240,CL,CL,colgatepalmolive,us
+3241,AON,AON,aon,us
+3242,CMCSA,CMCSA,comcast,us
+3243,CMA,CMA,comerica,us
+3244,CBSH,CBSH,commerce bancshares,us
+3245,C,C,citigroup,us
+3246,CMC,CMC,commercial metals,us
+3247,CAR,CAR,avis budget group,us
+3248,DXC,DXC,dxc technology,us
+3249,CMTL,CMTL,comtech telecommunications,us
+3250,CAG,CAG,conagra brands,us
+3251,SSTK,SSTK,shutterstock,us
+3252,ED,ED,consolidated edison,us
+3253,CMS,CMS,cms energy,us
+3254,CLR,CLR,continental resources,us
+3255,CTB,CTB,cooper tire rubber,us
+3256,COO,COO,cooper companies,us
+3257,TAP,TAP,molson coors beverage,us
+3258,GLW,GLW,corning,us
+3259,CBRL,CBRL,cracker barrel old country store,us
+3260,CR,CR,crane,us
+3261,OMF,OMF,onemain holdings,us
+3262,CCK,CCK,crown holdings,us
+3263,CUB,CUB,cubic,us
+3264,CFR,CFR,cullenfrost bankers,us
+3265,CMI,CMI,cummins,us
+3266,CW,CW,curtisswright,us
+3267,WEN,WEN,wendy's,us
+3268,DAN,DAN,dana,us
+3269,DHR,DHR,danaher,us
+3270,TGT,TGT,target,us
+3271,DE,DE,deere,us
+3272,DAL,DAL,delta air lines,us
+3273,DLX,DLX,deluxe,us
+3274,DTE,DTE,dte energy,us
+3275,ATGE,ATGE,adtalem global education,us
+3276,DBD,DBD,diebold nixdorf,us
+3277,DDS,DDS,dillard's,us
+3278,DIOD,DIOD,diodes,us
+3279,DIS,DIS,walt disney,us
+3280,DG,DG,dollar general,us
+3281,D,D,dominion energy,us
+3282,DCI,DCI,donaldson,us
+3283,DOV,DOV,dover,us
+3284,DD,DD,dupont de nemours,us
+3285,OMC,OMC,omnicom group,us
+3286,DCO,DCO,ducommun,us
+3287,DUK,DUK,duke energy,us
+3288,DNB,DNB,dun bradstreet holdings,us
+3289,FLS,FLS,flowserve,us
+3290,DY,DY,dycom industries,us
+3291,PKI,PKI,perkinelmer,us
+3292,ETN,ETN,eaton,us
+3293,ECL,ECL,ecolab,us
+3294,EMR,EMR,emerson electric,us
+3295,ATO,ATO,atmos energy,us
+3296,EFX,EFX,equifax,us
+3297,EQT,EQT,eqt,us
+3298,EXPD,EXPD,expeditors international washington,us
+3299,BOOM,BOOM,dmc global,us
+3300,IIIN,IIIN,insteel industries,us
+3301,XOM,XOM,exxon mobil,us
+3302,FMC,FMC,fmc,us
+3303,NEE,NEE,nextera energy,us
+3304,FARM,FARM,farmer bros,us
+3305,FDX,FDX,fedex,us
+3306,FSS,FSS,federal signal,us
+3307,M,M,macy's,us
+3308,FOE,FOE,ferro,us
+3309,FITB,FITB,fifth third bancorp,us
+3310,RF,RF,regions financial,us
+3311,TRMK,TRMK,trustmark,us
+3312,MTB,MTB,mt bank,us
+3313,USB,USB,us bancorp,us
+3314,FHN,FHN,first horizon,us
+3315,FLO,FLO,flowers foods,us
+3316,FLR,FLR,fluor,us
+3317,F,F,ford motor,us
+3318,FELE,FELE,franklin electric,us
+3319,BEN,BEN,franklin resources,us
+3320,FUL,FUL,hb fuller,us
+3321,GATX,GATX,gatx,us
+3322,AJG,AJG,arthur j gallagher,us
+3323,TGNA,TGNA,tegna,us
+3324,GPS,GPS,gap,us
+3325,AJRD,AJRD,aerojet rocketdyne holdings,us
+3326,GD,GD,general dynamics,us
+3327,GE,GE,general electric,us
+3328,GIS,GIS,general mills,us
+3329,ALLY,ALLY,ally financial,us
+3330,GM,GM,general motors,us
+3331,SPXC,SPXC,spx,us
+3332,GCO,GCO,genesco,us
+3333,GNTX,GNTX,gentex,us
+3334,GPC,GPC,genuine parts,us
+3335,GT,GT,goodyear tire rubber,us
+3336,GRA,GRA,w r grace,us
+3337,GGG,GGG,graco,us
+3338,GWW,GWW,ww grainger,us
+3339,GTN,GTN,gray television,us
+3340,GEF,GEF,greif,us
+3341,MGI,MGI,moneygram international,us
+3342,HAL,HAL,halliburton,us
+3343,LHX,LHX,l3harris technologies,us
+3344,HSC,HSC,harsco,us
+3345,HAS,HAS,hasbro,us
+3346,HVT,HVT,haverty furniture companies,us
+3347,HE,HE,hawaiian electric industries,us
+3348,HCSG,HCSG,healthcare services group,us
+3349,STRL,STRL,sterling construction,us
+3350,HL,HL,hecla mining,us
+3351,HEI,HEI,heico,us
+3352,KHC,KHC,kraft heinz,us
+3353,HELE,HELE,helen troy,us
+3354,HP,HP,helmerich payne,us
+3355,HSY,HSY,hershey,us
+3356,HPQ,HPQ,hp,us
+3357,HXL,HXL,hexcel,us
+3358,HRC,HRC,hillrom holdings,us
+3359,HLT,HLT,hilton worldwide holdings,us
+3360,HFC,HFC,hollyfrontier,us
+3361,HD,HD,home depot,us
+3362,HNI,HNI,hni,us
+3363,HRL,HRL,hormel foods,us
+3364,CNP,CNP,centerpoint energy,us
+3365,HUBB,HUBB,hubbell,us
+3366,JBHT,JBHT,jb hunt transport services,us
+3367,HBAN,HBAN,huntington bancshares,us
+3368,ITT,ITT,itt,us
+3369,IDA,IDA,idacorp,us
+3370,ITW,ITW,illinois tool works,us
+3371,TT,TT,trane technologies,us
+3372,RYI,RYI,ryerson holding,us
+3373,GFF,GFF,griffon,us
+3374,INTC,INTC,intel,us
+3375,INS,INS,intelligent systems,us
+3376,TILE,TILE,interface,us
+3377,IBM,IBM,international business machines,us
+3378,IFF,IFF,international flavors fragrances,us
+3379,NAV,NAV,navistar international,us
+3380,IDCC,IDCC,interdigital,us
+3381,IP,IP,international paper,us
+3382,IPG,IPG,interpublic group companies,us
+3383,J,J,jacobs engineering group,us
+3384,EME,EME,emcor group,us
+3385,JNJ,JNJ,johnson johnson,us
+3386,JCI,JCI,johnson controls international,us
+3387,KLAC,KLAC,kla,us
+3388,KMI,KMI,kinder morgan,us
+3389,KAMN,KAMN,kaman,us
+3390,KSU,KSU,kansas city southern,us
+3391,EVRG,EVRG,evergy,us
+3392,K,K,kellogg,us
+3393,KELYA,KELYA,kelly services,us
+3394,KMT,KMT,kennametal,us
+3395,KBAL,KBAL,kimball international,us
+3396,KMB,KMB,kimberlyclark,us
+3397,KEX,KEX,kirby,us
+3398,KR,KR,kroger,us
+3399,LZB,LZB,lazboy,us
+3400,SR,SR,spire,us
+3401,LRCX,LRCX,lam research,us
+3402,LANC,LANC,lancaster colony,us
+3403,LEG,LEG,leggett platt,us
+3404,LEN,LEN,lennar,us
+3405,LEN-B,LEN,lennar,us
+3406,LLY,LLY,eli lilly,us
+3407,LB,LB,l brands,us
+3408,LECO,LECO,lincoln electric holdings,us
+3409,LNC,LNC,lincoln national,us
+3410,LMT,LMT,lockheed martin,us
+3411,RRC,RRC,range resources,us
+3412,LPX,LPX,louisianapacific,us
+3413,LOW,LOW,lowe's companies,us
+3414,LDL,LDL,lydall,us
+3415,MDC,MDC,mdc holdings,us
+3416,MDU,MDU,mdu resources group,us
+3417,MTW,MTW,manitowoc,us
+3418,MRO,MRO,marathon oil,us
+3419,MCS,MCS,marcus,us
+3420,MMC,MMC,marsh mclennan companies,us
+3421,MAS,MAS,masco,us
+3422,MAT,MAT,mattel,us
+3423,MKC,MKC,mccormick,us
+3424,MCD,MCD,mcdonald's,us
+3425,MGRC,MGRC,mcgrath rentcorp,us
+3426,SPGI,SPGI,sp global,us
+3427,MCK,MCK,mckesson,us
+3428,MDT,MDT,medtronic,us
+3429,CVS,CVS,cvs health,us
+3430,MRK,MRK,merck,us
+3431,MDP,MDP,meredith,us
+3432,MLAB,MLAB,mesa laboratories,us
+3433,MEI,MEI,methode electronics,us
+3434,MU,MU,micron technology,us
+3435,ETR,ETR,entergy,us
+3436,MSEX,MSEX,middlesex water,us
+3437,MLHR,MLHR,herman miller,us
+3438,MSA,MSA,msa safety,us
+3439,MMM,MMM,3m,us
+3440,ALE,ALE,allete,us
+3441,MOD,MOD,modine manufacturing,us
+3442,QDEL,QDEL,quidel,us
+3443,MOG-A,MOG,moog,us
+3444,MSI,MSI,motorola solutions,us
+3445,MUR,MUR,murphy oil,us
+3446,MYE,MYE,myers industries,us
+3447,VTRS,VTRS,viatris,us
+3448,BAC,BAC,bank america,us
+3449,NCR,NCR,ncr,us
+3450,NSSC,NSSC,napco security technologies,us
+3451,NFG,NFG,national fuel gas,us
+3452,THC,THC,tenet healthcare,us
+3453,NJR,NJR,new jersey resources,us
+3454,NYT,NYT,new york times,us
+3455,NWL,NWL,newell brands,us
+3456,NEM,NEM,newmont,us
+3457,NR,NR,newpark resources,us
+3458,NKE,NKE,nike,us
+3459,NDSN,NDSN,nordson,us
+3460,JWN,JWN,nordstrom,us
+3461,NSC,NSC,norfolk southern,us
+3462,ES,ES,eversource energy,us
+3463,NI,NI,nisource,us
+3464,XEL,XEL,xcel energy,us
+3465,NTRS,NTRS,northern trust,us
+3466,NOC,NOC,northrop grumman,us
+3467,TEX,TEX,terex,us
+3468,NWN,NWN,northwest natural holding,us
+3469,NWE,NWE,northwestern,us
+3470,WFC,WFC,wells fargo,us
+3471,NUE,NUE,nucor,us
+3472,OXY,OXY,occidental petroleum,us
+3473,OII,OII,oceaneering international,us
+3474,ITI,ITI,iteris,us
+3475,FE,FE,firstenergy,us
+3476,OGE,OGE,oge energy,us
+3477,OLN,OLN,olin,us
+3478,OKE,OKE,oneok,us
+3479,OTTR,OTTR,otter tail,us
+3480,OMI,OMI,owens minor,us
+3481,OC,OC,owens corning,us
+3482,OI,OI,oi glass,us
+3483,OXM,OXM,oxford industries,us
+3484,PNC,PNC,pnc financial services group,us
+3485,PPG,PPG,ppg industries,us
+3486,PCAR,PCAR,paccar,us
+3487,PCG,PCG,pge,us
+3488,SRE,SRE,sempra energy,us
+3489,PAR,PAR,par technology,us
+3490,PKOH,PKOH,parkohio holdings,us
+3491,PH,PH,parkerhannifin,us
+3492,PATK,PATK,patrick industries,us
+3493,PAYX,PAYX,paychex,us
+3494,PVAC,PVAC,penn virginia,us
+3495,PPL,PPL,ppl,us
+3496,PNR,PNR,pentair,us
+3497,PEP,PEP,pepsico,us
+3498,TPC,TPC,tutor perini,us
+3499,PDCE,PDCE,pdc energy,us
+3500,PFE,PFE,pfizer,us
+3501,EXC,EXC,exelon,us
+3502,WTRG,WTRG,essential utilities,us
+3503,MO,MO,altria group,us
+3504,COP,COP,conocophillips,us
+3505,PVH,PVH,pvh,us
+3506,AGYS,AGYS,agilysys,us
+3507,PIPR,PIPR,piper sandler companies,us
+3508,PBI,PBI,pitney bowes,us
+3509,PLT,PLT,plantronics,us
+3510,POWL,POWL,powell industries,us
+3511,PG,PG,procter gamble,us
+3512,PNM,PNM,pnm resources,us
+3513,PEG,PEG,public service enterprise group,us
+3514,PHM,PHM,pultegroup,us
+3515,AGX,AGX,argan,us
+3516,KWR,KWR,quaker chemical,us
+3517,NXGN,NXGN,nextgen healthcare,us
+3518,QMCO,QMCO,quantum,us
+3519,RJF,RJF,raymond james financial,us
+3520,RES,RES,rpc,us
+3521,RPM,RPM,rpm international,us
+3522,RAVN,RAVN,raven industries,us
+3523,RBC,RBC,regal beloit,us
+3524,RGS,RGS,regis,us
+3525,AN,AN,autonation,us
+3526,RAD,RAD,rite aid,us
+3527,ROK,ROK,rockwell automation,us
+3528,ROG,ROG,rogers,us
+3529,ROL,ROL,rollins,us
+3530,ROST,ROST,ross stores,us
+3531,RGLD,RGLD,royal gold,us
+3532,R,R,ryder system,us
+3533,SEIC,SEIC,sei investments,us
+3534,SJW,SJW,sjw group,us
+3535,SLB,SLB,schlumberger,us
+3536,APPS,APPS,digital turbine,us
+3537,SEE,SEE,sealed air,us
+3538,IIN,IIN,intricon,us
+3539,SMTC,SMTC,semtech,us
+3540,SCI,SCI,service international,us
+3541,SHEN,SHEN,shenandoah telecommunications,us
+3542,SHW,SHW,sherwinwilliams,us
+3543,AOS,AOS,a o smith,us
+3544,SJM,SJM,j m smucker,us
+3545,SNA,SNA,snapon,us
+3546,KEY,KEY,keycorp,us
+3547,SON,SON,sonoco products,us
+3548,SJI,SJI,south jersey industries,us
+3549,EIX,EIX,edison international,us
+3550,AWR,AWR,american states water,us
+3551,SO,SO,southern,us
+3552,LUV,LUV,southwest airlines,us
+3553,SWX,SWX,southwest gas holdings,us
+3554,T,T,att,us
+3555,SWN,SWN,southwestern energy,us
+3556,SHYF,SHYF,shyft group,us
+3557,STAA,STAA,staar surgical,us
+3558,SMP,SMP,standard motor products,us
+3559,SXI,SXI,standex international,us
+3560,SWK,SWK,stanley black decker,us
+3561,STT,STT,state street,us
+3562,SCL,SCL,stepan,us
+3563,SYK,SYK,stryker,us
+3564,NAVI,NAVI,navient,us
+3565,RGR,RGR,sturm ruger,us
+3566,SYY,SYY,sysco,us
+3567,ATI,ATI,allegheny technologies,us
+3568,TFX,TFX,teleflex,us
+3569,TDS,TDS,telephone data systems,us
+3570,TNC,TNC,tennant,us
+3571,TEN,TEN,tenneco,us
+3572,TER,TER,teradyne,us
+3573,TXN,TXN,texas instruments,us
+3574,TXT,TXT,textron,us
+3575,TMO,TMO,thermo fisher scientific,us
+3576,THO,THO,thor industries,us
+3577,TDW,TDW,tidewater,us
+3578,SIX,SIX,six flags entertainment,us
+3579,TKR,TKR,timken,us
+3580,GL,GL,globe life,us
+3581,TTC,TTC,toro,us
+3582,TRNS,TRNS,transcat,us
+3583,TRN,TRN,trinity industries,us
+3584,TYL,TYL,tyler technologies,us
+3585,TSN,TSN,tyson foods,us
+3586,UAL,UAL,united airlines holdings,us
+3587,UGI,UGI,ugi,us
+3588,UFI,UFI,unifi,us
+3589,UNF,UNF,unifirst,us
+3590,AEE,AEE,ameren,us
+3591,UNP,UNP,union pacific,us
+3592,UNH,UNH,unitedhealth group,us
+3593,UMBF,UMBF,umb financial,us
+3594,UPS,UPS,united parcel service,us
+3595,RTX,RTX,raytheon technologies,us
+3596,SGMS,SGMS,scientific games,us
+3597,UTL,UTL,unitil,us
+3598,SXT,SXT,sensient technologies,us
+3599,UHS,UHS,universal health services,us
+3600,VFC,VFC,vf,us
+3601,VSEC,VSEC,vse,us
+3602,VMI,VMI,valmont industries,us
+3603,VECO,VECO,veeco instruments,us
+3604,VSH,VSH,vishay intertechnology,us
+3605,VMC,VMC,vulcan materials,us
+3606,WDFC,WDFC,wd40,us
+3607,WMT,WMT,walmart,us
+3608,WBA,WBA,walgreens boots alliance,us
+3609,AVA,AVA,avista,us
+3610,WSO,WSO,watsco,us
+3611,WST,WST,west pharmaceutical services,us
+3612,WDC,WDC,western digital,us
+3613,WHR,WHR,whirlpool,us
+3614,WMB,WMB,williams companies,us
+3615,WSM,WSM,williamssonoma,us
+3616,WGO,WGO,winnebago industries,us
+3617,WEC,WEC,wec energy group,us
+3618,LNT,LNT,alliant energy,us
+3619,WWW,WWW,wolverine world wide,us
+3620,WWD,WWD,woodward,us
+3621,FL,FL,foot locker,us
+3622,WOR,WOR,worthington industries,us
+3623,XRX,XRX,xerox holdings,us
+3624,YORW,YORW,york water,us
+3625,SPB,SPB,spectrum brands holdings,us
+3626,TJX,TJX,tjx companies,us
+3627,ZION,ZION,zions bancorporation national association,us
+3628,OSK,OSK,oshkosh,us
+3629,QLYS,QLYS,qualys,us
+3630,SF,SF,stifel financial,us
+3631,OVV,OVV,ovintiv,us
+3632,LCII,LCII,lci industries,us
+3633,JKHY,JKHY,jack henry associates,us
+3634,ASB,ASB,associated banccorp,us
+3635,NMIH,NMIH,nmi holdings,us
+3636,TFC,TFC,truist financial,us
+3637,VLY,VLY,valley national bancorp,us
+3638,FMBI,FMBI,first midwest bancorp,us
+3639,BIG,BIG,big lots,us
+3640,MS,MS,morgan stanley,us
+3641,TROW,TROW,t rowe price group,us
+3642,MSFT,MSFT,microsoft,us
+3643,ORCL,ORCL,oracle,us
+3644,COTY,COTY,coty,us
+3645,RGEN,RGEN,repligen,us
+3646,XOMA,XOMA,xoma,us
+3647,ASTE,ASTE,astec industries,us
+3648,WERN,WERN,werner enterprises,us
+3649,AMWD,AMWD,american woodmark,us
+3650,HOG,HOG,harleydavidson,us
+3651,SKYW,SKYW,skywest,us
+3652,TOL,TOL,toll brothers,us
+3653,POR,POR,portland general electric,us
+3654,IT,IT,gartner,us
+3655,WTS,WTS,watts water technologies,us
+3656,NVR,NVR,nvr,us
+3657,INT,INT,world fuel services,us
+3658,CLFD,CLFD,clearfield,us
+3659,ATUS,ATUS,altice usa,us
+3660,ADBE,ADBE,adobe,us
+3661,EHC,EHC,encompass health,us
+3662,CNO,CNO,cno financial group,us
+3663,MRTN,MRTN,marten transport,us
+3664,FISV,FISV,fiserv,us
+3665,KBH,KBH,kb home,us
+3666,ABEO,ABEO,abeona therapeutics,us
+3667,UNM,UNM,unum group,us
+3668,PPC,PPC,pilgrim's pride,us
+3669,CLGX,CLGX,corelogic,us
+3670,JJSF,JJSF,j j snack foods,us
+3671,HTLD,HTLD,heartland express,us
+3672,CERN,CERN,cerner,us
+3673,ICAD,ICAD,icad,us
+3674,MKL,MKL,markel,us
+3675,OSUR,OSUR,orasure technologies,us
+3676,PLXS,PLXS,plexus,us
+3677,SNV,SNV,synovus financial,us
+3678,RDNT,RDNT,radnet,us
+3679,JACK,JACK,jack in box,us
+3680,PLAB,PLAB,photronics,us
+3681,KRMD,KRMD,repro med systems,us
+3682,SAFM,SAFM,sanderson farms,us
+3683,PGR,PGR,progressive,us
+3684,RLI,RLI,rli,us
+3685,CDNS,CDNS,cadence design systems,us
+3686,BRY,BRY,berry,us
+3687,CCL,CCL,carnival,us
+3688,MBI,MBI,mbia,us
+3689,MIDD,MIDD,middleby,us
+3690,CRMT,CRMT,america's carmart,us
+3691,ABMD,ABMD,abiomed,us
+3692,CNMD,CNMD,conmed,us
+3693,XRAY,XRAY,dentsply sirona,us
+3694,VIACA,VIACA,viacomcbs,us
+3695,VIAC,VIAC,viacomcbs,us
+3696,ZTS,ZTS,zoetis,us
+3697,HRTX,HRTX,heron therapeutics,us
+3698,FICO,FICO,fair isaac,us
+3699,COOP,COOP,mr cooper group,us
+3700,VGR,VGR,vector group,us
+3701,SCHW,SCHW,charles schwab,us
+3702,CLH,CLH,clean harbors,us
+3703,AIN,AIN,albany international,us
+3704,CYBE,CYBE,cyberoptics,us
+3705,MITK,MITK,mitek systems,us
+3706,FULT,FULT,fulton financial,us
+3707,BXS,BXS,bancorpsouth bank,us
+3708,FAST,FAST,fastenal,us
+3709,WABC,WABC,westamerica bancorporation,us
+3710,MXIM,MXIM,maxim integrated products,us
+3711,HLF,HLF,herbalife nutrition,us
+3712,FRC,FRC,first republic bank,us
+3713,APH,APH,amphenol,us
+3714,IPAR,IPAR,inter parfums,us
+3715,PII,PII,polaris,us
+3716,ICPT,ICPT,intercept pharmaceuticals,us
+3717,PXD,PXD,pioneer natural resources,us
+3718,USM,USM,united states cellular,us
+3719,MAN,MAN,manpowergroup,us
+3720,MGM,MGM,mgm resorts international,us
+3721,WM,WM,waste management,us
+3722,DELL,DELL,dell technologies,us
+3723,SSP,SSP,ew scripps,us
+3724,IIVI,IIVI,iivi,us
+3725,FCX,FCX,freeportmcmoran,us
+3726,CDMO,CDMO,avid bioservices,us
+3727,ODP,ODP,odp,us
+3728,MTH,MTH,meritage homes,us
+3729,ARCH,ARCH,arch resources,us
+3730,WRB,WRB,w r berkley,us
+3731,CINF,CINF,cincinnati financial,us
+3732,ORI,ORI,old republic international,us
+3733,MGPI,MGPI,mgp ingredients,us
+3734,DDD,DDD,3d systems,us
+3735,DVN,DVN,devon energy,us
+3736,LNN,LNN,lindsay,us
+3737,LH,LH,laboratory america holdings,us
+3738,WDAY,WDAY,workday,us
+3739,VLO,VLO,valero energy,us
+3740,TRS,TRS,trimas,us
+3741,IEX,IEX,idex,us
+3742,TCF,TCF,tcf financial,us
+3743,ARGO,ARGO,argo group international holdings,us
+3744,TECH,TECH,biotechne,us
+3745,BRO,BRO,brown brown,us
+3746,AMBA,AMBA,ambarella,us
+3747,SIG,SIG,signet jewelers,us
+3748,PRTK,PRTK,paratek pharmaceuticals,us
+3749,NLOK,NLOK,nortonlifelock,us
+3750,SPWH,SPWH,sportsman's warehouse holdings,us
+3751,ABBV,ABBV,abbvie,us
+3752,APAM,APAM,artisan partners asset management,us
+3753,CGNX,CGNX,cognex,us
+3754,PBCT,PBCT,people's united financial,us
+3755,ENTA,ENTA,enanta pharmaceuticals,us
+3756,VOYA,VOYA,voya financial,us
+3757,CRUS,CRUS,cirrus logic,us
+3758,NEOG,NEOG,neogen,us
+3759,LEA,LEA,lear,us
+3760,EOG,EOG,eog resources,us
+3761,BCC,BCC,boise cascade,us
+3762,ZIXI,ZIXI,zix,us
+3763,SFBS,SFBS,servisfirst bancshares,us
+3764,LSCC,LSCC,lattice semiconductor,us
+3765,TMHC,TMHC,taylor morrison home,us
+3766,BMTC,BMTC,bryn mawr bank,us
+3767,CPF,CPF,central pacific financial,us
+3768,DGII,DGII,digi international,us
+3769,EA,EA,electronic arts,us
+3770,HMHC,HMHC,houghton mifflin harcourt,us
+3771,PRTA,PRTA,prothena,us
+3772,FBNC,FBNC,first bancorp,us
+3773,CHCO,CHCO,city holding,us
+3774,CBU,CBU,community bank system,us
+3775,FBP,FBP,first bancorp,us
+3776,GBCI,GBCI,glacier bancorp,us
+3777,FRME,FRME,first merchants,us
+3778,TVTX,TVTX,travere therapeutics,us
+3779,INDB,INDB,independent bank,us
+3780,IBCP,IBCP,independent bank,us
+3781,LSXMA,LSXMA,liberty siriusxm group,us
+3782,LSXMK,LSXMK,liberty siriusxm group,us
+3783,XONE,XONE,exone,us
+3784,ONB,ONB,old national bancorp,us
+3785,IMGN,IMGN,immunogen,us
+3786,PEBO,PEBO,peoples bancorp,us
+3787,SIGI,SIGI,selective insurance group,us
+3788,SIVB,SIVB,svb financial group,us
+3789,WSFS,WSFS,wsfs financial,us
+3790,WAFD,WAFD,washington federal,us
+3791,WBS,WBS,webster financial,us
+3792,WSBC,WSBC,wesbanco,us
+3793,SBCF,SBCF,seacoast banking florida,us
+3794,FFBC,FFBC,first financial bancorp,us
+3795,BLFS,BLFS,biolife solutions,us
+3796,TALO,TALO,talos energy,us
+3797,TMP,TMP,tompkins financial,us
+3798,UBSI,UBSI,united bankshares,us
+3799,UFCS,UFCS,united fire group,us
+3800,NVEE,NVEE,nv5 global,us
+3801,PFSI,PFSI,pennymac financial services,us
+3802,IBTX,IBTX,independent bank group,us
+3803,MODN,MODN,model n,us
+3804,RBNC,RBNC,reliant bancorp,us
+3805,TSC,TSC,tristate capital holdings,us
+3806,CNOB,CNOB,connectone bancorp,us
+3807,EPZM,EPZM,epizyme,us
+3808,ECOM,ECOM,channeladvisor,us
+3809,TMUS,TMUS,tmobile us,us
+3810,NCBS,NCBS,nicolet bankshares,us
+3811,IQV,IQV,iqvia holdings,us
+3812,SFM,SFM,sprouts farmers market,us
+3813,FI,FI,frank's international,us
+3814,BLUE,BLUE,bluebird bio,us
+3815,CCS,CCS,century communities,us
+3816,NSTG,NSTG,nanostring technologies,us
+3817,COMM,COMM,commscope holding,us
+3818,NWSA,NWSA,news,us
+3819,NWS,NWS,news,us
+3820,NDLS,NDLS,noodles,us
+3821,FNB,FNB,fnb,us
+3822,AGIO,AGIO,agios pharmaceuticals,us
+3823,ANIP,ANIP,ani pharmaceuticals,us
+3824,FCF,FCF,first commonwealth financial,us
+3825,THFF,THFF,first financial,us
+3826,ASC,ASC,ardmore shipping,us
+3827,CWEN-A,CWEN,clearway energy,us
+3828,CWEN,CWEN,clearway energy,us
+3829,SC,SC,santander consumer usa holdings,us
+3830,FLIC,FLIC,first long island,us
+3831,USFD,USFD,us foods holding,us
+3832,PGEN,PGEN,precigen,us
+3833,FOXF,FOXF,fox factory holding,us
+3834,BUSE,BUSE,first busey,us
+3835,AR,AR,antero resources,us
+3836,FEYE,FEYE,fireeye,us
+3837,MUSA,MUSA,murphy usa,us
+3838,XLRN,XLRN,acceleron pharma,us
+3839,HBNC,HBNC,horizon bancorp,us
+3840,CHGG,CHGG,chegg,us
+3841,BNFT,BNFT,benefitfocus,us
+3842,FATE,FATE,fate therapeutics,us
+3843,AAOI,AAOI,applied optoelectronics,us
+3844,ISEE,ISEE,iveric bio,us
+3845,RMAX,RMAX,remax holdings,us
+3846,PINC,PINC,premier,us
+3847,GLOB,GLOB,globant,us
+3848,LGIH,LGIH,lgi homes,us
+3849,RNG,RNG,ringcentral,us
+3850,MGNX,MGNX,macrogenics,us
+3851,BURL,BURL,burlington stores,us
+3852,SAIC,SAIC,science applications international,us
+3853,VEEV,VEEV,veeva systems,us
+3854,PTC,PTC,ptc,us
+3855,LKFN,LKFN,lakeland financial,us
+3856,ESNT,ESNT,essent group,us
+3857,AERI,AERI,aerie pharmaceuticals,us
+3858,TCS,TCS,container store group,us
+3859,TWTR,TWTR,twitter,us
+3860,EXPI,EXPI,exp world holdings,us
+3861,GLYC,GLYC,glycomimetics,us
+3862,AMRX,AMRX,amneal pharmaceuticals,us
+3863,TNDM,TNDM,tandem diabetes care,us
+3864,KPTI,KPTI,karyopharm therapeutics,us
+3865,XNCR,XNCR,xencor,us
+3866,VCYT,VCYT,veracyte,us
+3867,MMI,MMI,marcus millichap,us
+3868,VRNS,VRNS,varonis systems,us
+3869,CWH,CWH,camping world holdings,us
+3870,NBTB,NBTB,nbt bancorp,us
+3871,KIN,KIN,kindred biosciences,us
+3872,RARE,RARE,ultragenyx pharmaceutical,us
+3873,OSBC,OSBC,old second bancorp,us
+3874,CARA,CARA,cara therapeutics,us
+3875,STAY,STAY,extended stay america,us
+3876,TACO,TACO,del taco restaurants,us
+3877,INGN,INGN,inogen,us
+3878,PRK,PRK,park national,us
+3879,SFNC,SFNC,simmons first national,us
+3880,MBUU,MBUU,malibu boats,us
+3881,DENN,DENN,denny's,us
+3882,GIII,GIII,giii apparel group,us
+3883,ITCI,ITCI,intracellular therapies,us
+3884,GSBC,GSBC,great southern bancorp,us
+3885,DRNA,DRNA,dicerna pharmaceuticals,us
+3886,RVNC,RVNC,revance therapeutics,us
+3887,FLXN,FLXN,flexion therapeutics,us
+3888,IBP,IBP,installed building products,us
+3889,OGS,OGS,one gas,us
+3890,KN,KN,knowles,us
+3891,CNCE,CNCE,concert pharmaceuticals,us
+3892,STBA,STBA,st bancorp,us
+3893,LE,LE,lands' end,us
+3894,CBAY,CBAY,cymabay therapeutics,us
+3895,HEAR,HEAR,turtle beach,us
+3896,LC,LC,lendingclub,us
+3897,SABR,SABR,sabre,us
+3898,AUB,AUB,atlantic union bankshares,us
+3899,NLTX,NLTX,neoleukin therapeutics,us
+3900,RESN,RESN,resonant,us
+3901,PCTY,PCTY,paylocity holding,us
+3902,QUOT,QUOT,quotient technology,us
+3903,MGNI,MGNI,magnite,us
+3904,EGRX,EGRX,eagle pharmaceuticals,us
+3905,RMNI,RMNI,rimini street,us
+3906,UVSP,UVSP,univest financial,us
+3907,AKBA,AKBA,akebia therapeutics,us
+3908,WASH,WASH,washington trust bancorp,us
+3909,QTWO,QTWO,q2 holdings,us
+3910,TWOU,TWOU,2u,us
+3911,GRUB,GRUB,grubhub,us
+3912,FIVN,FIVN,five9,us
+3913,MC,MC,moelis,us
+3914,AGTC,AGTC,applied genetic technologies,us
+3915,MEDP,MEDP,medpace holdings,us
+3916,AGRX,AGRX,agile therapeutics,us
+3917,TMST,TMST,timkensteel,us
+3918,CVBF,CVBF,cvb financial,us
+3919,BOX,BOX,box,us
+3920,TMX,TMX,terminix global holdings,us
+3921,PAHC,PAHC,phibro animal health,us
+3922,PAYC,PAYC,paycom software,us
+3923,WMS,WMS,advanced drainage systems,us
+3924,QTNT,QTNT,quotient,us
+3925,SMG,SMG,scotts miraclegro,us
+3926,NERV,NERV,minerva neurosciences,us
+3927,CTLT,CTLT,catalent,us
+3928,ZEN,ZEN,zendesk,us
+3929,KEYS,KEYS,keysight technologies,us
+3930,TBPH,TBPH,theravance biopharma,us
+3931,DNOW,DNOW,now,us
+3932,LOB,LOB,live oak bancshares,us
+3933,PRMW,PRMW,primo water,us
+3934,ARES,ARES,ares management,us
+3935,OEC,OEC,orion engineered carbons,us
+3936,HRTG,HRTG,heritage insurance holdings,us
+3937,SLM,SLM,slm,us
+3938,RYAM,RYAM,rayonier advanced materials,us
+3939,TRUE,TRUE,truecar,us
+3940,COG,COG,cabot oil gas,us
+3941,MRNS,MRNS,marinus pharmaceuticals,us
+3942,DMTK,DMTK,dermtech,us
+3943,GPRO,GPRO,gopro,us
+3944,ARDX,ARDX,ardelyx,us
+3945,SNDX,SNDX,syndax pharmaceuticals,us
+3946,AMPH,AMPH,amphastar pharmaceuticals,us
+3947,VEC,VEC,vectrus,us
+3948,FFWM,FFWM,first foundation,us
+3949,SYF,SYF,synchrony financial,us
+3950,DOOR,DOOR,masonite international,us
+3951,RLMD,RLMD,relmada therapeutics,us
+3952,ANET,ANET,arista networks,us
+3953,CSCO,CSCO,cisco systems,us
+3954,HQY,HQY,healthequity,us
+3955,HOLX,HOLX,hologic,us
+3956,TRUP,TRUP,trupanion,us
+3957,SAGE,SAGE,sage therapeutics,us
+3958,CNNE,CNNE,cannae holdings,us
+3959,ATEX,ATEX,anterix,us
+3960,LNTH,LNTH,lantheus holdings,us
+3961,XENT,XENT,intersect ent,us
+3962,ATRA,ATRA,atara biotherapeutics,us
+3963,OCUL,OCUL,ocular therapeutix,us
+3964,BSIG,BSIG,brightsphere investment group,us
+3965,ADVM,ADVM,adverum biotechnologies,us
+3966,VKTX,VKTX,viking therapeutics,us
+3967,AKTS,AKTS,akoustis technologies,us
+3968,AXDX,AXDX,accelerate diagnostics,us
+3969,LOCO,LOCO,el pollo loco holdings,us
+3970,NBEV,NBEV,newage,us
+3971,CFRX,CFRX,contrafect,us
+3972,LBRDA,LBRDA,liberty broadband,us
+3973,LBRDK,LBRDK,liberty broadband,us
+3974,VICR,VICR,vicor,us
+3975,AVNS,AVNS,avanos medical,us
+3976,LSTR,LSTR,landstar system,us
+3977,KMPR,KMPR,kemper,us
+3978,UNVR,UNVR,univar solutions,us
+3979,VYNE,VYNE,vyne therapeutics,us
+3980,W,W,wayfair,us
+3981,AAON,AAON,aaon,us
+3982,CIVB,CIVB,civista bancshares,us
+3983,RYTM,RYTM,rhythm pharmaceuticals,us
+3984,GWB,GWB,great western bancorp,us
+3985,CALA,CALA,calithera biosciences,us
+3986,VBTX,VBTX,veritex holdings,us
+3987,AFMD,AFMD,affimed,us
+3988,PRAH,PRAH,pra health sciences,us
+3989,CDK,CDK,cdk global,us
+3990,MMSI,MMSI,merit medical systems,us
+3991,FRPT,FRPT,freshpet,us
+3992,CZR,CZR,caesars entertainment,us
+3993,TBK,TBK,triumph bancorp,us
+3994,CFG,CFG,citizens financial group,us
+3995,CHRS,CHRS,coherus biosciences,us
+3996,HUBS,HUBS,hubspot,us
+3997,BOOT,BOOT,boot barn holdings,us
+3998,FGEN,FGEN,fibrogen,us
+3999,PANL,PANL,pangaea logistics solutions,us
+4000,NVRO,NVRO,nevro,us
+4001,WK,WK,workiva,us
+4002,CRBP,CRBP,corbus pharmaceuticals holdings,us
+4003,SIEN,SIEN,sientra,us
+4004,SYNH,SYNH,syneos health,us
+4005,UPLD,UPLD,upland software,us
+4006,GRBK,GRBK,green brick partners,us
+4007,JYNT,JYNT,joint,us
+4008,AXTA,AXTA,axalta coating systems,us
+4009,FND,FND,floor decor holdings,us
+4010,NEWR,NEWR,new relic,us
+4011,TBI,TBI,trueblue,us
+4012,HCA,HCA,hca healthcare,us
+4013,XLNX,XLNX,xilinx,us
+4014,CURO,CURO,curo group holdings,us
+4015,PARR,PARR,par pacific holdings,us
+4016,GMS,GMS,gms,us
+4017,PIRS,PIRS,pieris pharmaceuticals,us
+4018,SUM,SUM,summit materials,us
+4019,LCI,LCI,lannett,us
+4020,VSTO,VSTO,vista outdoor,us
+4021,ESTE,ESTE,earthstone energy,us
+4022,SHAK,SHAK,shake shack,us
+4023,INOV,INOV,inovalon holdings,us
+4024,SYBT,SYBT,stock yards bancorp,us
+4025,CC,CC,chemours,us
+4026,TRMB,TRMB,trimble,us
+4027,VERU,VERU,veru,us
+4028,NVTA,NVTA,invitae,us
+4029,EXPO,EXPO,exponent,us
+4030,GDDY,GDDY,godaddy,us
+4031,ENR,ENR,energizer holdings,us
+4032,BHE,BHE,benchmark electronics,us
+4033,FRTA,FRTA,forterra,us
+4034,VRAY,VRAY,viewray,us
+4035,SEDG,SEDG,solaredge technologies,us
+4036,BLBD,BLBD,blue bird,us
+4037,MTRX,MTRX,matrix service,us
+4038,ESE,ESE,esco technologies,us
+4039,CABO,CABO,cable one,us
+4040,ETSY,ETSY,etsy,us
+4041,BLD,BLD,topbuild,us
+4042,PJT,PJT,pjt partners,us
+4043,LITE,LITE,lumentum holdings,us
+4044,ETH,ETH,ethan allen interiors,us
+4045,BPMC,BPMC,blueprint medicines,us
+4046,VIRT,VIRT,virtu financial,us
+4047,OPRX,OPRX,optimizerx,us
+4048,CVA,CVA,covanta holding,us
+4049,CATY,CATY,cathay general bancorp,us
+4050,CDAY,CDAY,ceridian hcm holding,us
+4051,COLL,COLL,collegium pharmaceutical,us
+4052,HAYN,HAYN,haynes international,us
+4053,ALTA,ALTA,altabancorp,us
+4054,PAVM,PAVM,pavmed,us
+4055,CYH,CYH,community health systems,us
+4056,DORM,DORM,dorman products,us
+4057,AZO,AZO,autozone,us
+4058,REGN,REGN,regeneron pharmaceuticals,us
+4059,EVH,EVH,evolent health,us
+4060,WING,WING,wingstop,us
+4061,EXTN,EXTN,exterran,us
+4062,X,X,united states steel,us
+4063,GKOS,GKOS,glaukos,us
+4064,IONS,IONS,ionis pharmaceuticals,us
+4065,APPF,APPF,appfolio,us
+4066,OLLI,OLLI,ollie's bargain outlet holdings,us
+4067,ALRM,ALRM,alarmcom holdings,us
+4068,FCFS,FCFS,firstcash,us
+4069,DBI,DBI,designer brands,us
+4070,NTRA,NTRA,natera,us
+4071,MCRB,MCRB,seres therapeutics,us
+4072,IDXX,IDXX,idexx laboratories,us
+4073,AES,AES,aes,us
+4074,HWC,HWC,hancock whitney,us
+4075,TDOC,TDOC,teladoc health,us
+4076,DIN,DIN,dine brands global,us
+4077,KALU,KALU,kaiser aluminum,us
+4078,ALKS,ALKS,alkermes,us
+4079,MNST,MNST,monster beverage,us
+4080,VRTX,VRTX,vertex pharmaceuticals,us
+4081,MNRO,MNRO,monro,us
+4082,LIND,LIND,lindblad expeditions holdings,us
+4083,PRGS,PRGS,progress software,us
+4084,MTG,MTG,mgic investment,us
+4085,TVTY,TVTY,tivity health,us
+4086,ZBRA,ZBRA,zebra technologies,us
+4087,EZPW,EZPW,ezcorp,us
+4088,PRA,PRA,proassurance,us
+4089,BOKF,BOKF,bok financial,us
+4090,SPNE,SPNE,seaspine holdings,us
+4091,FIZZ,FIZZ,national beverage,us
+4092,BIIB,BIIB,biogen,us
+4093,MSGS,MSGS,madison square garden sports,us
+4094,RPD,RPD,rapid7,us
+4095,OOMA,OOMA,ooma,us
+4096,CHMA,CHMA,chiasma,us
+4097,DSKE,DSKE,daseke,us
+4098,AGLE,AGLE,aeglea biotherapeutics,us
+4099,FLOW,FLOW,spx flow,us
+4100,PYPL,PYPL,paypal holdings,us
+4101,ODFL,ODFL,old dominion freight line,us
+4102,TRU,TRU,transunion,us
+4103,HMN,HMN,horace mann educators,us
+4104,WNC,WNC,wabash national,us
+4105,LILA,LILA,liberty latin america,us
+4106,LILAK,LILAK,liberty latin america,us
+4107,WRLD,WRLD,world acceptance,us
+4108,WETF,WETF,wisdomtree investments,us
+4109,PRGO,PRGO,perrigo,us
+4110,TTEK,TTEK,tetra tech,us
+4111,AMSC,AMSC,american superconductor,us
+4112,QCOM,QCOM,qualcomm,us
+4113,GILD,GILD,gilead sciences,us
+4114,PLNT,PLNT,planet fitness,us
+4115,RUN,RUN,sunrun,us
+4116,MCFT,MCFT,mastercraft boat holdings,us
+4117,ROP,ROP,roper technologies,us
+4118,SNPS,SNPS,synopsys,us
+4119,ELY,ELY,callaway golf,us
+4120,VRTS,VRTS,virtus investment partners,us
+4121,MHK,MHK,mohawk industries,us
+4122,LIN,LIN,linde,us
+4123,CNR,CNR,cornerstone building brands,us
+4124,RNST,RNST,renasant,us
+4125,AGCO,AGCO,agco,us
+4126,HLI,HLI,houlihan lokey,us
+4127,BKE,BKE,buckle,us
+4128,OLED,OLED,universal display,us
+4129,BSX,BSX,boston scientific,us
+4130,KSS,KSS,kohl's,us
+4131,VBIV,VBIV,vbi vaccines,us
+4132,STE,STE,steris,us
+4133,USPH,USPH,us physical therapy,us
+4134,BBBY,BBBY,bed bath beyond,us
+4135,CACC,CACC,credit acceptance,us
+4136,DHI,DHI,dr horton,us
+4137,GBT,GBT,global blood therapeutics,us
+4138,COLB,COLB,columbia banking system,us
+4139,GPK,GPK,graphic packaging holding,us
+4140,TWNK,TWNK,hostess brands,us
+4141,FCEL,FCEL,fuelcell energy,us
+4142,SBUX,SBUX,starbucks,us
+4143,CENT,CENT,central garden pet,us
+4144,CENTA,CENTA,central garden pet,us
+4145,WIRE,WIRE,encore wire,us
+4146,KW,KW,kennedywilson holdings,us
+4147,CAKE,CAKE,cheesecake factory,us
+4148,LFUS,LFUS,littelfuse,us
+4149,ASGN,ASGN,asgn,us
+4150,PSTG,PSTG,pure storage,us
+4151,MTX,MTX,minerals technologies,us
+4152,PDCO,PDCO,patterson companies,us
+4153,SITE,SITE,siteone landscape supply,us
+4154,RDN,RDN,radian group,us
+4155,SGRY,SGRY,surgery partners,us
+4156,KAI,KAI,kadant,us
+4157,LGND,LGND,ligand pharmaceuticals,us
+4158,GTLS,GTLS,chart industries,us
+4159,SM,SM,sm energy,us
+4160,MTCH,MTCH,match group,us
+4161,KURA,KURA,kura oncology,us
+4162,CTMX,CTMX,cytomx therapeutics,us
+4163,NVCR,NVCR,novocure,us
+4164,HOME,HOME,at home group,us
+4165,RGNX,RGNX,regenxbio,us
+4166,PEN,PEN,penumbra,us
+4167,HPE,HPE,hewlett packard enterprise,us
+4168,ANAB,ANAB,anaptysbio,us
+4169,BRP,BRP,brp group,us
+4170,ABTX,ABTX,allegiance bancshares,us
+4171,DLTH,DLTH,duluth holdings,us
+4172,WVE,WVE,wave life sciences,us
+4173,VYGR,VYGR,voyager therapeutics,us
+4174,AXSM,AXSM,axsome therapeutics,us
+4175,APLS,APLS,apellis pharmaceuticals,us
+4176,RRR,RRR,red rock resorts,us
+4177,SQ,SQ,square,us
+4178,MIME,MIME,mimecast,us
+4179,TEAM,TEAM,atlassian,us
+4180,WBT,WBT,welbilt,us
+4181,RMR,RMR,rmr group,us
+4182,FTV,FTV,fortive,us
+4183,AGR,AGR,avangrid,us
+4184,OCX,OCX,oncocyte,us
+4185,NTNX,NTNX,nutanix,us
+4186,HRI,HRI,herc holdings,us
+4187,TRHC,TRHC,tabula rasa healthcare,us
+4188,GCP,GCP,gcp applied technologies,us
+4189,TCMD,TCMD,tactile systems technology,us
+4190,EDIT,EDIT,editas medicine,us
+4191,RETA,RETA,reata pharmaceuticals,us
+4192,EIGR,EIGR,eiger biopharmaceuticals,us
+4193,NGVT,NGVT,ingevity,us
+4194,NTLA,NTLA,intellia therapeutics,us
+4195,BATRK,BATRK,liberty braves group,us
+4196,FWONA,FWONA,formula one group,us
+4197,FWONK,FWONK,formula one group,us
+4198,BALY,BALY,bally's,us
+4199,ADNT,ADNT,adient,us
+4200,SELB,SELB,selecta biosciences,us
+4201,TWLO,TWLO,twilio,us
+4202,VVV,VVV,valvoline,us
+4203,JELD,JELD,jeldwen holding,us
+4204,PI,PI,impinj,us
+4205,SYRS,SYRS,syros pharmaceuticals,us
+4206,HGV,HGV,hilton grand vacations,us
+4207,KDMN,KDMN,kadmon holdings,us
+4208,KIDS,KIDS,orthopediatrics,us
+4209,TPIC,TPIC,tpi composites,us
+4210,GOLF,GOLF,acushnet holdings,us
+4211,SMPL,SMPL,simply good foods,us
+4212,HONE,HONE,harborone bancorp,us
+4213,AA,AA,alcoa,us
+4214,KNSL,KNSL,kinsale capital group,us
+4215,YETI,YETI,yeti holdings,us
+4216,FHB,FHB,first hawaiian,us
+4217,PTGX,PTGX,protagonist therapeutics,us
+4218,INSW,INSW,international seaways,us
+4219,MDGL,MDGL,madrigal pharmaceuticals,us
+4220,NLS,NLS,nautilus,us
+4221,CREE,CREE,cree,us
+4222,DFIN,DFIN,donnelley financial solutions,us
+4223,LIVN,LIVN,livanova,us
+4224,CRY,CRY,cryolife,us
+4225,UEIC,UEIC,universal electronics,us
+4226,FBK,FBK,fb financial,us
+4227,EVBG,EVBG,everbridge,us
+4228,TTD,TTD,trade desk,us
+4229,ELF,ELF,elf beauty,us
+4230,HUM,HUM,humana,us
+4231,AVID,AVID,avid technology,us
+4232,INTU,INTU,intuit,us
+4233,SCVL,SCVL,shoe carnival,us
+4234,CSTR,CSTR,capstar financial holdings,us
+4235,MCHP,MCHP,microchip technology,us
+4236,BOMN,BOMN,boston omaha,us
+4237,CHS,CHS,chico's fas,us
+4238,FLGT,FLGT,fulgent genetics,us
+4239,BANF,BANF,bancfirst,us
+4240,CB,CB,chubb,us
+4241,DZSI,DZSI,dzs,us
+4242,COUP,COUP,coupa software,us
+4243,SANM,SANM,sanmina,us
+4244,TCBK,TCBK,trico bancshares,us
+4245,ATR,ATR,aptargroup,us
+4246,ORLY,ORLY,o'reilly automotive,us
+4247,RCL,RCL,royal caribbean group,us
+4248,HWM,HWM,howmet aerospace,us
+4249,AVNT,AVNT,avient,us
+4250,JBL,JBL,jabil,us
+4251,RGA,RGA,reinsurance group america,us
+4252,GABC,GABC,german american bancorp,us
+4253,CDW,CDW,cdw,us
+4254,RIG,RIG,transocean,us
+4255,ALL,ALL,allstate,us
+4256,IRTC,IRTC,irhythm technologies,us
+4257,LGF-A,LGF,lions gate entertainment,us
+4258,LGF-B,LGF,lions gate entertainment,us
+4259,OFIX,OFIX,orthofix medical,us
+4260,SPNS,SPNS,sapiens international,us
+4261,PZZA,PZZA,papa john's international,us
+4262,THRM,THRM,gentherm,us
+4263,BL,BL,blackline,us
+4264,YUMC,YUMC,yum china holdings,us
+4265,GRWG,GRWG,growgeneration,us
+4266,BCO,BCO,brink's,us
+4267,MCRI,MCRI,monarch casino resort,us
+4268,CNDT,CNDT,conduent,us
+4269,BWA,BWA,borgwarner,us
+4270,SPTN,SPTN,spartannash,us
+4271,PFGC,PFGC,performance food group,us
+4272,LW,LW,lamb weston holdings,us
+4273,ARWR,ARWR,arrowhead pharmaceuticals,us
+4274,CASH,CASH,meta financial group,us
+4275,KDP,KDP,keurig dr pepper,us
+4276,MAR,MAR,marriott international,us
+4277,BDC,BDC,belden,us
+4278,QCRH,QCRH,qcr holdings,us
+4279,VREX,VREX,varex imaging,us
+4280,BYD,BYD,boyd gaming,us
+4281,CKPT,CKPT,checkpoint therapeutics,us
+4282,DECK,DECK,deckers outdoor,us
+4283,ALBO,ALBO,albireo pharma,us
+4284,COST,COST,costco wholesale,us
+4285,FFIN,FFIN,first financial bankshares,us
+4286,PTEN,PTEN,pattersonuti energy,us
+4287,INCY,INCY,incyte,us
+4288,ROCK,ROCK,gibraltar industries,us
+4289,ITRI,ITRI,itron,us
+4290,URBN,URBN,urban outfitters,us
+4291,CNTY,CNTY,century casinos,us
+4292,CARS,CARS,carscom,us
+4293,UFPI,UFPI,ufp industries,us
+4294,ICHR,ICHR,ichor holdings,us
+4295,FWRD,FWRD,forward air,us
+4296,BYSI,BYSI,beyondspring,us
+4297,BPFH,BPFH,boston private financial holdings,us
+4298,VIAV,VIAV,viavi solutions,us
+4299,KALV,KALV,kalvista pharmaceuticals,us
+4300,NYCB,NYCB,new york community bancorp,us
+4301,CASA,CASA,casa systems,us
+4302,SHOO,SHOO,steven madden,us
+4303,EMN,EMN,eastman chemical,us
+4304,UFPT,UFPT,ufp technologies,us
+4305,LNG,LNG,cheniere energy,us
+4306,MED,MED,medifast,us
+4307,NEX,NEX,nextier oilfield solutions,us
+4308,HAIN,HAIN,hain celestial group,us
+4309,WTTR,WTTR,select energy services,us
+4310,JNCE,JNCE,jounce therapeutics,us
+4311,DSPG,DSPG,dsp group,us
+4312,MLM,MLM,martin marietta materials,us
+4313,TSCO,TSCO,tractor supply,us
+4314,ALB,ALB,albemarle,us
+4315,BZH,BZH,beazer homes usa,us
+4316,IVZ,IVZ,invesco,us
+4317,WRK,WRK,westrock,us
+4318,BCRX,BCRX,biocryst pharmaceuticals,us
+4319,NNBR,NNBR,nn,us
+4320,CPRT,CPRT,copart,us
+4321,SCSC,SCSC,scansource,us
+4322,MPAA,MPAA,motorcar parts america,us
+4323,LMNR,LMNR,limoneira,us
+4324,FMBH,FMBH,first mid bancshares,us
+4325,EXP,EXP,eagle materials,us
+4326,AEO,AEO,american eagle outfitters,us
+4327,HLNE,HLNE,hamilton lane,us
+4328,IR,IR,ingersoll rand,us
+4329,NKTR,NKTR,nektar therapeutics,us
+4330,PUMP,PUMP,propetro holding,us
+4331,ABCB,ABCB,ameris bancorp,us
+4332,TELL,TELL,tellurian,us
+4333,PENN,PENN,penn national gaming,us
+4334,SSD,SSD,simpson manufacturing,us
+4335,LBRT,LBRT,liberty oilfield services,us
+4336,HCC,HCC,warrior met coal,us
+4337,FDP,FDP,fresh del monte produce,us
+4338,GBX,GBX,greenbrier companies,us
+4339,SOI,SOI,solaris oilfield infrastructure,us
+4340,ARD,ARD,ardagh group,us
+4341,ADTN,ADTN,adtran,us
+4342,AMED,AMED,amedisys,us
+4343,YEXT,YEXT,yext,us
+4344,DAR,DAR,darling ingredients,us
+4345,AYX,AYX,alteryx,us
+4346,SIRI,SIRI,sirius xm holdings,us
+4347,RS,RS,reliance steel aluminum,us
+4348,OKTA,OKTA,okta,us
+4349,KNX,KNX,knightswift transportation holdings,us
+4350,AZPN,AZPN,aspen technology,us
+4351,CVLG,CVLG,covenant logistics group,us
+4352,NWBI,NWBI,northwest bancshares,us
+4353,CADE,CADE,cadence bancorporation,us
+4354,COF,COF,capital one financial,us
+4355,CVNA,CVNA,carvana,us
+4356,CLDR,CLDR,cloudera,us
+4357,URGN,URGN,urogen pharma,us
+4358,VERI,VERI,veritone,us
+4359,BHVN,BHVN,biohaven pharmaceutical holding,us
+4360,AM,AM,antero midstream,us
+4361,OVID,OVID,ovid therapeutics,us
+4362,SVRA,SVRA,savara,us
+4363,APPN,APPN,appian,us
+4364,MGY,MGY,magnolia oil gas,us
+4365,GNTY,GNTY,guaranty bancshares,us
+4366,GTHX,GTHX,g1 therapeutics,us
+4367,FOCS,FOCS,focus financial partners,us
+4368,HAFC,HAFC,hanmi financial,us
+4369,AGS,AGS,playags,us
+4370,NSIT,NSIT,insight enterprises,us
+4371,SSTI,SSTI,shotspotter,us
+4372,RCII,RCII,rentacenter,us
+4373,WOW,WOW,wideopenwest,us
+4374,BRKS,BRKS,brooks automation,us
+4375,SGH,SGH,smart global holdings,us
+4376,ACIW,ACIW,aci worldwide,us
+4377,BY,BY,byline bancorp,us
+4378,DLTR,DLTR,dollar tree,us
+4379,NATI,NATI,national instruments,us
+4380,MRSN,MRSN,mersana therapeutics,us
+4381,ABC,ABC,amerisourcebergen,us
+4382,CBZ,CBZ,cbiz,us
+4383,BMRC,BMRC,bank marin bancorp,us
+4384,BHF,BHF,brighthouse financial,us
+4385,HLIT,HLIT,harmonic,us
+4386,DRI,DRI,darden restaurants,us
+4387,RMD,RMD,resmed,us
+4388,BBCP,BBCP,concrete pumping holdings,us
+4389,RDFN,RDFN,redfin,us
+4390,BKR,BKR,baker hughes,us
+4391,PETQ,PETQ,petiq,us
+4392,GNPX,GNPX,genprex,us
+4393,MTEM,MTEM,molecular templates,us
+4394,PQG,PQG,pq group holdings,us
+4395,MBIO,MBIO,mustang bio,us
+4396,KRYS,KRYS,krystal biotech,us
+4397,CEIX,CEIX,consol energy,us
+4398,ROKU,ROKU,roku,us
+4399,DCPH,DCPH,deciphera pharmaceuticals,us
+4400,OPTN,OPTN,optinose,us
+4401,SWCH,SWCH,switch,us
+4402,SPRO,SPRO,spero therapeutics,us
+4403,MDB,MDB,mongodb,us
+4404,FNKO,FNKO,funko,us
+4405,ALTR,ALTR,altair engineering,us
+4406,CARG,CARG,cargurus,us
+4407,BAND,BAND,bandwidth,us
+4408,EYE,EYE,national vision holdings,us
+4409,CBTX,CBTX,cbtx,us
+4410,OSW,OSW,onespaworld holdings,us
+4411,AQUA,AQUA,evoqua water technologies,us
+4412,MBIN,MBIN,merchants bancorp,us
+4413,SAIL,SAIL,sailpoint technologies holdings,us
+4414,CUE,CUE,cue biopharma,us
+4415,SFIX,SFIX,stitch fix,us
+4416,ARCT,ARCT,arcturus therapeutics holdings,us
+4417,NMRK,NMRK,newmark group,us
+4418,EQH,EQH,equitable holdings,us
+4419,WSC,WSC,willscot mobile mini holdings,us
+4420,DNLI,DNLI,denali therapeutics,us
+4421,QTRX,QTRX,quanterix,us
+4422,ODT,ODT,odonate therapeutics,us
+4423,AVYA,AVYA,avaya holdings,us
+4424,VMD,VMD,viemed healthcare,us
+4425,GTES,GTES,gates industrial,us
+4426,SLDB,SLDB,solid biosciences,us
+4427,RCKT,RCKT,rocket pharmaceuticals,us
+4428,EOLS,EOLS,evolus,us
+4429,ADT,ADT,adt,us
+4430,CDLX,CDLX,cardlytics,us
+4431,WHD,WHD,cactus,us
+4432,BTAI,BTAI,bioxcel therapeutics,us
+4433,NBSE,NBSE,neubase therapeutics,us
+4434,ZS,ZS,zscaler,us
+4435,CLBK,CLBK,columbia financial,us
+4436,PRPL,PRPL,purple innovation,us
+4437,BWB,BWB,bridgewater bancshares,us
+4438,RCUS,RCUS,arcus biosciences,us
+4439,DBX,DBX,dropbox,us
+4440,SPOT,SPOT,spotify technology,us
+4441,ZUO,ZUO,zuora,us
+4442,FIXX,FIXX,homology medicines,us
+4443,WH,WH,wyndham hotels resorts,us
+4444,SMAR,SMAR,smartsheet,us
+4445,DOCU,DOCU,docusign,us
+4446,UBX,UBX,unity biotechnology,us
+4447,CHX,CHX,championx,us
+4448,LASR,LASR,nlight,us
+4449,GSHD,GSHD,goosehead insurance,us
+4450,ROAD,ROAD,construction partners,us
+4451,LOVE,LOVE,lovesac,us
+4452,INSP,INSP,inspire medical systems,us
+4453,EVLO,EVLO,evelo biosciences,us
+4454,SRRK,SRRK,scholar rock holding,us
+4455,KNSA,KNSA,kiniksa pharmaceuticals,us
+4456,OBNK,OBNK,origin bancorp,us
+4457,XAIR,XAIR,beyond air,us
+4458,MGTA,MGTA,magenta therapeutics,us
+4459,GSKY,GSKY,greensky,us
+4460,EVOP,EVOP,evo payments,us
+4461,MGTX,MGTX,meiragtx holdings,us
+4462,VRCA,VRCA,verrica pharmaceuticals,us
+4463,USX,USX,us xpress enterprises,us
+4464,TCDA,TCDA,tricida,us
+4465,TBIO,TBIO,translate bio,us
+4466,DOMO,DOMO,domo,us
+4467,AVLR,AVLR,avalara,us
+4468,KZR,KZR,kezar life sciences,us
+4469,BV,BV,brightview holdings,us
+4470,IIIV,IIIV,i3 verticals,us
+4471,SKY,SKY,skyline champion,us
+4472,AVRO,AVRO,avrobio,us
+4473,XERS,XERS,xeris pharmaceuticals,us
+4474,BE,BE,bloom energy,us
+4475,RPAY,RPAY,repay holdings,us
+4476,EVER,EVER,everquote,us
+4477,BJ,BJ,bj's wholesale club holdings,us
+4478,REPL,REPL,replimune group,us
+4479,RUBY,RUBY,rubius therapeutics,us
+4480,ALLK,ALLK,allakos,us
+4481,CRNX,CRNX,crinetics pharmaceuticals,us
+4482,CNST,CNST,constellation pharmaceuticals,us
+4483,AQST,AQST,aquestive therapeutics,us
+4484,IAA,IAA,iaa,us
+4485,PRVB,PRVB,provention bio,us
+4486,TENB,TENB,tenable holdings,us
+4487,ARLO,ARLO,arlo technologies,us
+4488,SONO,SONO,sonos,us
+4489,CWK,CWK,cushman wakefield,us
+4490,LQDA,LQDA,liquidia,us
+4491,IMXI,IMXI,international money express,us
+4492,FTDR,FTDR,frontdoor,us
+4493,ELAN,ELAN,elanco animal health,us
+4494,MESA,MESA,mesa air group,us
+4495,AMTB,AMTB,amerant bancorp,us
+4496,CRK,CRK,comstock resources,us
+4497,FLMN,FLMN,falcon minerals,us
+4498,LTHM,LTHM,livent,us
+4499,REZI,REZI,resideo technologies,us
+4500,STRO,STRO,sutro biopharma,us
+4501,EB,EB,eventbrite,us
+4502,ARVN,ARVN,arvinas,us
+4503,GRTS,GRTS,gritstone bio,us
+4504,UPWK,UPWK,upwork,us
+4505,GH,GH,guardant health,us
+4506,KOD,KOD,kodiak sciences,us
+4507,YMAB,YMAB,ymabs therapeutics,us
+4508,SVMK,SVMK,svmk,us
+4509,ALLO,ALLO,allogene therapeutics,us
+4510,SIBN,SIBN,sibone,us
+4511,PHAS,PHAS,phasebio pharmaceuticals,us
+4512,NGM,NGM,ngm biopharmaceuticals,us
+4513,PLAN,PLAN,anaplan,us
+4514,TWST,TWST,twist bioscience,us
+4515,ESTC,ESTC,elastic,us
+4516,VRRM,VRRM,verra mobility,us
+4517,STNE,STNE,stoneco,us
+4518,VAPO,VAPO,vapotherm,us
+4519,AMK,AMK,assetmark financial holdings,us
+4520,ETRN,ETRN,equitrans midstream,us
+4521,AXNX,AXNX,axonics,us
+4522,MRNA,MRNA,moderna,us
+4523,WTRH,WTRH,waitr holdings,us
+4524,DOW,DOW,dow,us
+4525,SI,SI,silvergate capital,us
+4526,BYND,BYND,beyond meat,us
+4527,ORGO,ORGO,organogenesis holdings,us
+4528,GOSS,GOSS,gossamer bio,us
+4529,HARP,HARP,harpoon therapeutics,us
+4530,TCRR,TCRR,tcr2 therapeutics,us
+4531,PSTX,PSTX,poseida therapeutics,us
+4532,ALEC,ALEC,alector,us
+4533,FOXA,FOXA,fox,us
+4534,FOX,FOX,fox,us
+4535,KLDO,KLDO,kaleido biosciences,us
+4536,WTRE,WTRE,watford holdings,us
+4537,CVET,CVET,covetrus,us
+4538,SWAV,SWAV,shockwave medical,us
+4539,LYFT,LYFT,lyft,us
+4540,SILK,SILK,silk road medical,us
+4541,DTIL,DTIL,precision biosciences,us
+4542,TW,TW,tradeweb markets,us
+4543,TH,TH,target hospitality,us
+4544,PLMR,PLMR,palomar holdings,us
+4545,CHNG,CHNG,change healthcare,us
+4546,PD,PD,pagerduty,us
+4547,DSSI,DSSI,diamond s shipping,us
+4548,MNRL,MNRL,brigham minerals,us
+4549,ZM,ZM,zoom video communications,us
+4550,TPTX,TPTX,turning point therapeutics,us
+4551,PINS,PINS,pinterest,us
+4552,HOOK,HOOK,hookipa pharma,us
+4553,KTB,KTB,kontoor brands,us
+4554,TMDX,TMDX,transmedics group,us
+4555,AVTR,AVTR,avantor,us
+4556,UBER,UBER,uber technologies,us
+4557,NXTC,NXTC,nextcure,us
+4558,APLT,APLT,applied therapeutics,us
+4559,CRTX,CRTX,cortexyme,us
+4560,FSLY,FSLY,fastly,us
+4561,WORK,WORK,slack technologies,us
+4562,IDYA,IDYA,ideaya biosciences,us
+4563,PSN,PSN,parsons,us
+4564,CTVA,CTVA,corteva,us
+4565,CRWD,CRWD,crowdstrike holdings,us
+4566,PSNL,PSNL,personalis,us
+4567,STOK,STOK,stoke therapeutics,us
+4568,BBIO,BBIO,bridgebio pharma,us
+4569,AKRO,AKRO,akero therapeutics,us
+4570,BCEL,BCEL,atreca,us
+4571,ADPT,ADPT,adaptive biotechnologies,us
+4572,MORF,MORF,morphic holding,us
+4573,REAL,REAL,realreal,us
+4574,KRTX,KRTX,karuna therapeutics,us
+4575,CMBM,CMBM,cambium networks,us
+4576,MDLA,MDLA,medallia,us
+4577,MIRM,MIRM,mirum pharmaceuticals,us
+4578,PHR,PHR,phreesia,us
+4579,HCAT,HCAT,health catalyst,us
+4580,NOVA,NOVA,sunnova energy international,us
+4581,CSTL,CSTL,castle biosciences,us
+4582,KRUS,KRUS,kura sushi usa,us
+4583,RAPT,RAPT,rapt therapeutics,us
+4584,DT,DT,dynatrace,us
+4585,ONEW,ONEW,onewater marine,us
+4586,CFB,CFB,crossfirst bankshares,us
+4587,OPRT,OPRT,oportun financial,us
+4588,NVST,NVST,envista holdings,us
+4589,OPCH,OPCH,option care health,us
+4590,SWTX,SWTX,springworks therapeutics,us
+4591,NET,NET,cloudflare,us
+4592,CRNC,CRNC,cerence,us
+4593,PING,PING,ping identity holding,us
+4594,DDOG,DDOG,datadog,us
+4595,PTON,PTON,peloton interactive,us
+4596,VIR,VIR,vir biotechnology,us
+4597,IGMS,IGMS,igm biosciences,us
+4598,TXG,TXG,10x genomics,us
+4599,PNTG,PNTG,pennant group,us
+4600,FREQ,FREQ,frequency therapeutics,us
+4601,BRBR,BRBR,bellring brands,us
+4602,PGNY,PGNY,progyny,us
+4603,BEAM,BEAM,beam therapeutics,us
+4604,PHAT,PHAT,phathom pharmaceuticals,us
+4605,OYST,OYST,oyster point pharma,us
+4606,GRTX,GRTX,galera therapeutics,us
+4607,ETNB,ETNB,89bio,us
+4608,SITM,SITM,sitime,us
+4609,SPCE,SPCE,virgin galactic holdings,us
+4610,AHCO,AHCO,adapthealth,us
+4611,BILL,BILL,billcom holdings,us
+4612,REYN,REYN,reynolds consumer products,us
+4613,SPT,SPT,sprout social,us
+4614,ARNC,ARNC,arconic,us
+4615,IMVT,IMVT,immunovant,us
+4616,ONEM,ONEM,1life healthcare,us
+4617,ARQT,ARQT,arcutis biotherapeutics,us
+4618,PPD,PPD,ppd,us
+4619,CSPR,CSPR,casper sleep,us
+4620,SDGR,SDGR,schrödinger,us
+4621,BDTX,BDTX,black diamond therapeutics,us
+4622,RVMD,RVMD,revolution medicines,us
+4623,PASG,PASG,passage bio,us
+4624,VRT,VRT,vertiv holdings,us
+4625,PAE,PAE,pae,us
+4626,OTIS,OTIS,otis worldwide,us
+4627,CARR,CARR,carrier global,us
+4628,AZEK,AZEK,azek,us
+4629,ALTG,ALTG,alta equipment group,us
+4630,SLQT,SLQT,selectquote,us
+4631,NARI,NARI,inari medical,us
+4632,ACCD,ACCD,accolade,us
+4633,ORIC,ORIC,oric pharmaceuticals,us
+4634,GDYN,GDYN,grid dynamics holdings,us
+4635,ZNTL,ZNTL,zentalis pharmaceuticals,us
+4636,MSGE,MSGE,madison square garden entertainment,us
+4637,KROS,KROS,keros therapeutics,us
+4638,PLRX,PLRX,pliant therapeutics,us
+4639,RNA,RNA,avidity biosciences,us
+4640,RPRX,RPRX,royalty pharma,us
+4641,AMTI,AMTI,applied molecular transport,us
+4642,VRM,VRM,vroom,us
+4643,ACEL,ACEL,accel entertainment,us
+4644,FMTX,FMTX,forma therapeutics holdings,us
+4645,AKUS,AKUS,akouos,us
+4646,GBIO,GBIO,generation bio,us
+4647,PCVX,PCVX,vaxcyte,us
+4648,GOCO,GOCO,gohealth,us
+4649,TIG,TIG,trean insurance group,us
+4650,RXT,RXT,rackspace technology,us
+4651,NKTX,NKTX,nkarta,us
+4652,BLI,BLI,berkeley lights,us
+4653,RLAY,RLAY,relay therapeutics,us
+4654,ITOS,ITOS,iteos therapeutics,us
+4655,IAC,IAC,iacinteractivecorp,us
+4656,ALXO,ALXO,alx oncology holdings,us
+4657,NCNO,NCNO,ncino,us
+4658,JAMF,JAMF,jamf holding,us
+4659,MEG,MEG,montrose environmental group,us
+4660,RKT,RKT,rocket companies,us
+4661,VITL,VITL,vital farms,us
+4662,OSH,OSH,oak street health,us
+4663,BIGC,BIGC,bigcommerce holdings,us
+4664,AFIB,AFIB,acutus medical,us
+4665,NRIX,NRIX,nurix therapeutics,us
+4666,ANNX,ANNX,annexon,us
+4667,DCT,DCT,duck creek technologies,us
+4668,KYMR,KYMR,kymera therapeutics,us
+4669,AOUT,AOUT,american outdoor brands,us
+4670,SBGI,SBGI,sinclair broadcast group,us
+4671,DISH,DISH,dish network,us
+4672,HA,HA,hawaiian holdings,us
+4673,PLAY,PLAY,dave buster's entertainment,us
+4674,SYX,SYX,systemax,us
+4675,WAB,WAB,westinghouse air brake technologies,us
+4676,EAF,EAF,graftech international,us
+4677,AAWW,AAWW,atlas air worldwide holdings,us
+4678,KFRC,KFRC,kforce,us
+4679,IART,IART,integra lifesciences holdings,us
+4680,ACGL,ACGL,arch capital group,us
+4681,SMSI,SMSI,smith micro software,us
+4682,MD,MD,mednax,us
+4683,NOVT,NOVT,novanta,us
+4684,RE,RE,everest re group,us
+4685,MYGN,MYGN,myriad genetics,us
+4686,RNR,RNR,renaissancere holdings,us
+4687,THG,THG,hanover insurance group,us
+4688,POOL,POOL,pool,us
+4689,DVA,DVA,davita,us
+4690,BANR,BANR,banner,us
+4691,OPK,OPK,opko health,us
+4692,HSIC,HSIC,henry schein,us
+4693,AEIS,AEIS,advanced energy industries,us
+4694,EL,EL,estée lauder companies,us
+4695,WAT,WAT,waters,us
+4696,SAM,SAM,boston beer,us
+4697,FFIC,FFIC,flushing financial,us
+4698,IVAC,IVAC,intevac,us
+4699,NTAP,NTAP,netapp,us
+4700,NWPX,NWPX,northwest pipe,us
+4701,NVAX,NVAX,novavax,us
+4702,CTXS,CTXS,citrix systems,us
+4703,NUAN,NUAN,nuance communications,us
+4704,HTLF,HTLF,heartland financial usa,us
+4705,TGTX,TGTX,tg therapeutics,us
+4706,MSM,MSM,msc industrial direct,us
+4707,HIG,HIG,hartford financial services group,us
+4708,SCCO,SCCO,southern copper,us
+4709,LNDC,LNDC,landec,us
+4710,CMCO,CMCO,columbus mckinnon,us
+4711,ALXN,ALXN,alexion pharmaceuticals,us
+4712,CSGS,CSGS,csg systems international,us
+4713,HUBG,HUBG,hub group,us
+4714,CENX,CENX,century aluminum,us
+4715,SASR,SASR,sandy spring bancorp,us
+4716,TRV,TRV,travelers companies,us
+4717,SYKE,SYKE,sykes enterprises,us
+4718,FCN,FCN,fti consulting,us
+4719,TUP,TUP,tupperware brands,us
+4720,NBIX,NBIX,neurocrine biosciences,us
+4721,SSNC,SSNC,ssc technologies holdings,us
+4722,SBSI,SBSI,southside bancshares,us
+4723,RUSHA,RUSHA,rush enterprises,us
+4724,ANSS,ANSS,ansys,us
+4725,DCOM,DCOM,dime community bancshares,us
+4726,FDS,FDS,factset research systems,us
+4727,QGEN,QGEN,qiagen,us
+4728,OCFC,OCFC,oceanfirst financial,us
+4729,PEGA,PEGA,pegasystems,us
+4730,STRA,STRA,strategic education,us
+4731,GERN,GERN,geron,us
+4732,TTEC,TTEC,ttec holdings,us
+4733,GES,GES,guess',us
+4734,SRCL,SRCL,stericycle,us
+4735,ANF,ANF,abercrombie fitch,us
+4736,ENDP,ENDP,endo international,us
+4737,SPPI,SPPI,spectrum pharmaceuticals,us
+4738,ATRS,ATRS,antares pharma,us
+4739,BJRI,BJRI,bj's restaurants,us
+4740,HIBB,HIBB,hibbett sports,us
+4741,WTFC,WTFC,wintrust financial,us
+4742,PAG,PAG,penske automotive group,us
+4743,TGI,TGI,triumph group,us
+4744,NOV,NOV,nov,us
+4745,UNFI,UNFI,united natural foods,us
+4746,PLUS,PLUS,eplus,us
+4747,NUS,NUS,nu skin enterprises,us
+4748,STLD,STLD,steel dynamics,us
+4749,FORR,FORR,forrester research,us
+4750,VSAT,VSAT,viasat,us
+4751,DGX,DGX,quest diagnostics,us
+4752,LAD,LAD,lithia motors,us
+4753,HLIO,HLIO,helios technologies,us
+4754,CALM,CALM,calmaine foods,us
+4755,NSP,NSP,insperity,us
+4756,CERS,CERS,cerus,us
+4757,VCEL,VCEL,vericel,us
+4758,MTN,MTN,vail resorts,us
+4759,CIEN,CIEN,ciena,us
+4760,SLGN,SLGN,silgan holdings,us
+4761,KMX,KMX,carmax,us
+4762,EEFT,EEFT,euronet worldwide,us
+4763,SSB,SSB,south state,us
+4764,TTWO,TTWO,taketwo interactive software,us
+4765,FBC,FBC,flagstar bancorp,us
+4766,RMBS,RMBS,rambus,us
+4767,AMZN,AMZN,amazoncom,us
+4768,UCBI,UCBI,united community banks,us
+4769,QRVO,QRVO,qorvo,us
+4770,SRPT,SRPT,sarepta therapeutics,us
+4771,RL,RL,ralph lauren,us
+4772,MMS,MMS,maximus,us
+4773,SLP,SLP,simulations plus,us
+4774,PPBI,PPBI,pacific premier bancorp,us
+4775,FIX,FIX,comfort systems usa,us
+4776,HLX,HLX,helix energy solutions group,us
+4777,AROC,AROC,archrock,us
+4778,HSKA,HSKA,heska,us
+4779,EGHT,EGHT,8x8,us
+4780,OZK,OZK,bank ozk,us
+4781,JLL,JLL,jones lang lasalle,us
+4782,QADA,QADA,qad,us
+4783,UMPQ,UMPQ,umpqua holdings,us
+4784,BFAM,BFAM,bright horizons family solutions,us
+4785,PSMT,PSMT,pricesmart,us
+4786,MTOR,MTOR,meritor,us
+4787,YUM,YUM,yum! brands,us
+4788,FARO,FARO,faro technologies,us
+4789,PLCE,PLCE,children's place,us
+4790,NAT,NAT,nordic american tankers,us
+4791,CAC,CAC,camden national,us
+4792,SRI,SRI,stoneridge,us
+4793,OSIS,OSIS,osi systems,us
+4794,CHRW,CHRW,ch robinson worldwide,us
+4795,CHH,CHH,choice hotels international,us
+4796,DRQ,DRQ,drilquip,us
+4797,MBWM,MBWM,mercantile bank,us
+4798,CWST,CWST,casella waste systems,us
+4799,GPI,GPI,group 1 automotive,us
+4800,MTD,MTD,mettlertoledo international,us
+4801,MOFG,MOFG,midwestone financial group,us
+4802,SAH,SAH,sonic automotive,us
+4803,AMG,AMG,affiliated managers group,us
+4804,INGR,INGR,ingredion,us
+4805,POWI,POWI,power integrations,us
+4806,URI,URI,united rentals,us
+4807,HOPE,HOPE,hope bancorp,us
+4808,HFWA,HFWA,heritage financial,us
+4809,SCS,SCS,steelcase,us
+4810,VRSN,VRSN,verisign,us
+4811,MRCY,MRCY,mercury systems,us
+4812,PWR,PWR,quanta services,us
+4813,CNXN,CNXN,pc connection,us
+4814,SRDX,SRDX,surmodics,us
+4815,OSPN,OSPN,onespan,us
+4816,FHI,FHI,federated hermes,us
+4817,TPB,TPB,turning point brands,us
+4818,AMCR,AMCR,amcor,us
+4819,NLSN,NLSN,nielsen holdings,us
+4820,NCLH,NCLH,norwegian cruise line holdings,us
+4821,PAYS,PAYS,paysign,us
+4822,BRKL,BRKL,brookline bancorp,us
+4823,COLM,COLM,columbia sportswear,us
+4824,UUUU,UUUU,energy fuels,us
+4825,PGC,PGC,peapackgladstone financial,us
+4826,PFBC,PFBC,preferred bank,us
+4827,HTBK,HTBK,heritage commerce,us
+4828,LBAI,LBAI,lakeland bancorp,us
+4829,MANH,MANH,manhattan associates,us
+4830,AXTI,AXTI,axt,us
+4831,HZO,HZO,marinemax,us
+4832,EGBN,EGBN,eagle bancorp,us
+4833,CTSH,CTSH,cognizant technology solutions,us
+4834,RH,RH,rh,us
+4835,DOX,DOX,amdocs,us
+4836,CSGP,CSGP,costar group,us
+4837,RSG,RSG,republic services,us
+4838,SMED,SMED,sharps compliance,us
+4839,EBAY,EBAY,ebay,us
+4840,GS,GS,goldman sachs group,us
+4841,SWBI,SWBI,smith wesson brands,us
+4842,PB,PB,prosperity bancshares,us
+4843,SNBR,SNBR,sleep number,us
+4844,GDEN,GDEN,golden entertainment,us
+4845,EFSC,EFSC,enterprise financial services,us
+4846,STL,STL,sterling bancorp,us
+4847,NVDA,NVDA,nvidia,us
+4848,AXL,AXL,american axle manufacturing holdings,us
+4849,AUD,AUD,audacy,us
+4850,EWBC,EWBC,east west bancorp,us
+4851,APTV,APTV,aptiv,us
+4852,EPAY,EPAY,bottomline technologies (de),us
+4853,KFY,KFY,korn ferry,us
+4854,MKSI,MKSI,mks instruments,us
+4855,BKNG,BKNG,booking holdings,us
+4856,TREX,TREX,trex,us
+4857,CFFN,CFFN,capitol federal financial,us
+4858,EXTR,EXTR,extreme networks,us
+4859,HSII,HSII,heidrick struggles international,us
+4860,CNX,CNX,cnx resources,us
+4861,TOWN,TOWN,townebank,us
+4862,WCC,WCC,wesco international,us
+4863,USCR,USCR,us concrete,us
+4864,FFIV,FFIV,f5 networks,us
+4865,SKX,SKX,skechers usa,us
+4866,UTHR,UTHR,united therapeutics,us
+4867,FISI,FISI,financial institutions,us
+4868,JNPR,JNPR,juniper networks,us
+4869,PWFL,PWFL,powerfleet,us
+4870,ECPG,ECPG,encore capital group,us
+4871,JCOM,JCOM,j2 global,us
+4872,BMRN,BMRN,biomarin pharmaceutical,us
+4873,LII,LII,lennox international,us
+4874,PRFT,PRFT,perficient,us
+4875,FLWS,FLWS,1800flowerscom,us
+4876,NTCT,NTCT,netscout systems,us
+4877,EGAN,EGAN,egain,us
+4878,BLK,BLK,blackrock,us
+4879,CIR,CIR,circor international,us
+4880,WWE,WWE,world wrestling entertainment,us
+4881,SFST,SFST,southern first bancshares,us
+4882,AKAM,AKAM,akamai technologies,us
+4883,GAIA,GAIA,gaia,us
+4884,PLUG,PLUG,plug power,us
+4885,NEO,NEO,neogenomics,us
+4886,IDN,IDN,intellicheck,us
+4887,KTOS,KTOS,kratos defense security solutions,us
+4888,CHTR,CHTR,charter communications,us
+4889,EXPE,EXPE,expedia group,us
+4890,ONTO,ONTO,onto innovation,us
+4891,A,A,agilent technologies,us
+4892,TDY,TDY,teledyne technologies,us
+4893,PKG,PKG,packaging america,us
+4894,ZYXI,ZYXI,zynex,us
+4895,AGEN,AGEN,agenus,us
+4896,SLAB,SLAB,silicon laboratories,us
+4897,EW,EW,edwards lifesciences,us
+4898,EPC,EPC,edgewell personal care,us
+4899,RIGL,RIGL,rigel pharmaceuticals,us
+4900,LMNX,LMNX,luminex,us
+4901,CCMP,CCMP,cmc materials,us
+4902,HSTM,HSTM,healthstream,us
+4903,MET,MET,metlife,us
+4904,LXRX,LXRX,lexicon pharmaceuticals,us
+4905,LPSN,LPSN,liveperson,us
+4906,SGMO,SGMO,sangamo therapeutics,us
+4907,EXEL,EXEL,exelixis,us
+4908,ON,ON,on semiconductor,us
+4909,CEVA,CEVA,ceva,us
+4910,RBBN,RBBN,ribbon communications,us
+4911,NRG,NRG,nrg energy,us
+4912,INSM,INSM,insmed,us
+4913,PACW,PACW,pacwest bancorp,us
+4914,VC,VC,visteon,us
+4915,ISRG,ISRG,intuitive surgical,us
+4916,CRL,CRL,charles river laboratories international,us
+4917,MRVL,MRVL,marvell technology,us
+4918,BHLB,BHLB,berkshire hills bancorp,us
+4919,ENTG,ENTG,entegris,us
+4920,ACLS,ACLS,axcelis technologies,us
+4921,MAXR,MAXR,maxar technologies,us
+4922,ARNA,ARNA,arena pharmaceuticals,us
+4923,ILMN,ILMN,illumina,us
+4924,BRKR,BRKR,bruker,us
+4925,SRGA,SRGA,surgalign holdings,us
+4926,PNFP,PNFP,pinnacle financial partners,us
+4927,MCO,MCO,moody's,us
+4928,TTMI,TTMI,ttm technologies,us
+4929,AWH,AWH,aspira women's health,us
+4930,DRRX,DRRX,durect,us
+4931,ITGR,ITGR,integer holdings,us
+4932,TPR,TPR,tapestry,us
+4933,TNET,TNET,trinet group,us
+4934,EXAS,EXAS,exact sciences,us
+4935,RGP,RGP,resources connection,us
+4936,ALGN,ALGN,align technology,us
+4937,GRMN,GRMN,garmin,us
+4938,SGEN,SGEN,seagen,us
+4939,HBIO,HBIO,harvard bioscience,us
+4940,DVAX,DVAX,dynavax technologies,us
+4941,ACAD,ACAD,acadia pharmaceuticals,us
+4942,GPN,GPN,global payments,us
+4943,OIS,OIS,oil states international,us
+4944,BTU,BTU,peabody energy,us
+4945,SYNA,SYNA,synaptics,us
+4946,MDLZ,MDLZ,mondelez international,us
+4947,OMCL,OMCL,omnicell,us
+4948,PRU,PRU,prudential financial,us
+4949,ACN,ACN,accenture,us
+4950,AXON,AXON,axon enterprise,us
+4951,ADS,ADS,alliance data systems,us
+4952,WLTW,WLTW,willis towers watson public,us
+4953,MVBF,MVBF,mvb financial,us
+4954,CCRN,CCRN,cross country healthcare,us
+4955,BG,BG,bunge,us
+4956,PDFS,PDFS,pdf solutions,us
+4957,AMN,AMN,amn healthcare services,us
+4958,ZBH,ZBH,zimmer biomet holdings,us
+4959,ABG,ABG,asbury automotive group,us
+4960,XPO,XPO,xpo logistics,us
+4961,ANTM,ANTM,anthem,us
+4962,GME,GME,gamestop,us
+4963,WW,WW,ww international,us
+4964,CNC,CNC,centene,us
+4965,PFG,PFG,principal financial group,us
+4966,AAP,AAP,advance auto parts,us
+4967,AYI,AYI,acuity brands,us
+4968,MANT,MANT,mantech international,us
+4969,CORT,CORT,corcept therapeutics,us
+4970,CUTR,CUTR,cutera,us
+4971,CCOI,CCOI,cogent communications holdings,us
+4972,VRNT,VRNT,verint systems,us
+4973,JBLU,JBLU,jetblue airways,us
+4974,NFLX,NFLX,netflix,us
+4975,CVGW,CVGW,calavo growers,us
+4976,CPSI,CPSI,computer programs systems,us
+4977,OSTK,OSTK,overstockcom,us
+4978,ACM,ACM,aecom,us
+4979,BDSI,BDSI,biodelivery sciences international,us
+4980,TDG,TDG,transdigm group,us
+4981,FORM,FORM,formfactor,us
+4982,RRGB,RRGB,red robin gourmet burgers,us
+4983,NPO,NPO,enpro industries,us
+4984,CME,CME,cme group,us
+4985,NXST,NXST,nexstar media group,us
+4986,WYNN,WYNN,wynn resorts,us
+4987,NDAQ,NDAQ,nasdaq,us
+4988,BANC,BANC,banc california,us
+4989,CIT,CIT,cit group,us
+4990,DKS,DKS,dick's sporting goods,us
+4991,CRI,CRI,carter's,us
+4992,PFS,PFS,provident financial services,us
+4993,TCBI,TCBI,texas capital bancshares,us
+4994,PRAA,PRAA,pra group,us
+4995,SAIA,SAIA,saia,us
+4996,XEC,XEC,cimarex energy,us
+4997,HALO,HALO,halozyme therapeutics,us
+4998,FBMS,FBMS,first bancshares,us
+4999,MOH,MOH,molina healthcare,us
+5000,AXS,AXS,axis capital holdings,us
+5001,NTGR,NTGR,netgear,us
+5002,MODV,MODV,modivcare,us
+5003,ATSG,ATSG,air transport services group,us
+5004,LKQ,LKQ,lkq,us
+5005,XPER,XPER,xperi holding,us
+5006,SNX,SNX,synnex,us
+5007,AEL,AEL,american equity investment life holding,us
+5008,CONN,CONN,conn's,us
+5009,TPX,TPX,tempur sealy international,us
+5010,HTH,HTH,hilltop holdings,us
+5011,AIZ,AIZ,assurant,us
+5012,CMP,CMP,compass minerals international,us
+5013,VST,VST,vistra,us
+5014,CRM,CRM,salesforcecom,us
+5015,MEIP,MEIP,mei pharma,us
+5016,AGO,AGO,assured guaranty,us
+5017,GNW,GNW,genworth financial,us
+5018,CYTK,CYTK,cytokinetics,us
+5019,SP,SP,sp plus,us
+5020,MKTX,MKTX,marketaxess holdings,us
+5021,BGS,BGS,bg foods,us
+5022,DPZ,DPZ,domino's pizza,us
+5023,MA,MA,mastercard,us
+5024,GOOGL,GOOGL,alphabet,us
+5025,GOOG,GOOG,alphabet,us
+5026,MNKD,MNKD,mannkind,us
+5027,WTI,WTI,wt offshore,us
+5028,STXS,STXS,stereotaxis,us
+5029,TXRH,TXRH,texas roadhouse,us
+5030,BECN,BECN,beacon roofing supply,us
+5031,SFL,SFL,sfl,us
+5032,WLK,WLK,westlake chemical,us
+5033,MRTX,MRTX,mirati therapeutics,us
+5034,SBNY,SBNY,signature bank,us
+5035,VVI,VVI,viad,us
+5036,MPWR,MPWR,monolithic power systems,us
+5037,ENS,ENS,enersys,us
+5038,ORA,ORA,ormat technologies,us
+5039,MIC,MIC,macquarie infrastructure,us
+5040,LVS,LVS,las vegas sands,us
+5041,KRNY,KRNY,kearny financial,us
+5042,HURN,HURN,huron consulting group,us
+5043,CNSL,CNSL,consolidated communications holdings,us
+5044,MOS,MOS,mosaic,us
+5045,CYRX,CYRX,cryoport,us
+5046,CE,CE,celanese,us
+5047,INBK,INBK,first internet bancorp,us
+5048,PBH,PBH,prestige consumer healthcare,us
+5049,ULH,ULH,universal logistics holdings,us
+5050,DLB,DLB,dolby laboratories,us
+5051,WEX,WEX,wex,us
+5052,XPEL,XPEL,xpel,us
+5053,HUN,HUN,huntsman,us
+5054,LHCG,LHCG,lhc group,us
+5055,EXLS,EXLS,exlservice holdings,us
+5056,LAZ,LAZ,lazard,us
+5057,AX,AX,axos financial,us
+5058,CORE,CORE,coremark holding,us
+5059,DXCM,DXCM,dexcom,us
+5060,MNOV,MNOV,medicinova,us
+5061,INFO,INFO,ihs markit,us
+5062,RLGT,RLGT,radiant logistics,us
+5063,ZUMZ,ZUMZ,zumiez,us
+5064,BLDR,BLDR,builders firstsource,us
+5065,KOP,KOP,koppers holdings,us
+5066,ICE,ICE,intercontinental exchange,us
+5067,EVRI,EVRI,everi holdings,us
+5068,EGLE,EGLE,eagle bulk shipping,us
+5069,ATRC,ATRC,atricure,us
+5070,RUTH,RUTH,ruth's hospitality group,us
+5071,WAL,WAL,western alliance bancorporation,us
+5072,JRVR,JRVR,james river group holdings,us
+5073,GNK,GNK,genco shipping trading,us
+5074,CF,CF,cf industries holdings,us
+5075,CTSO,CTSO,cytosorbents,us
+5076,THS,THS,treehouse foods,us
+5077,DISCA,DISCA,discovery,us
+5078,DISCK,DISCK,discovery,us
+5079,TROX,TROX,tronox holdings,us
+5080,ISBC,ISBC,investors bancorp,us
+5081,IRBT,IRBT,irobot,us
+5082,SPR,SPR,spirit aerosystems holdings,us
+5083,ACCO,ACCO,acco brands,us
+5084,ROLL,ROLL,rbc bearings,us
+5085,AMSF,AMSF,amerisafe,us
+5086,HOMB,HOMB,home bancshares (conway ar),us
+5087,BKD,BKD,brookdale senior living,us
+5088,AMP,AMP,ameriprise financial,us
+5089,CROX,CROX,crocs,us
+5090,SPWR,SPWR,sunpower,us
+5091,UAA,UAA,under armour,us
+5092,LDOS,LDOS,leidos holdings,us
+5093,ZIOP,ZIOP,ziopharm oncology,us
+5094,DHT,DHT,dht holdings,us
+5095,FNF,FNF,fidelity national financial,us
+5096,LYV,LYV,live nation entertainment,us
+5097,UEC,UEC,uranium energy,us
+5098,HEES,HEES,he equipment services,us
+5099,CMG,CMG,chipotle mexican grill,us
+5100,FIS,FIS,fidelity national information services,us
+5101,KRA,KRA,kraton,us
+5102,VNDA,VNDA,vanda pharmaceuticals,us
+5103,AVXL,AVXL,anavex life sciences,us
+5104,MWA,MWA,mueller water products,us
+5105,ATEC,ATEC,alphatec holdings,us
+5106,VG,VG,vonage holdings,us
+5107,DK,DK,delek us holdings,us
+5108,LUNA,LUNA,luna innovations,us
+5109,SNCR,SNCR,synchronoss technologies,us
+5110,GFN,GFN,general finance,us
+5111,PFPT,PFPT,proofpoint,us
+5112,GOGO,GOGO,gogo,us
+5113,CUBI,CUBI,customers bancorp,us
+5114,HTBI,HTBI,hometrust bancshares,us
+5115,RDUS,RDUS,radius health,us
+5116,POST,POST,post holdings,us
+5117,SPLK,SPLK,splunk,us
+5118,FB,FB,facebook,us
+5119,FANG,FANG,diamondback energy,us
+5120,PSX,PSX,phillips 66,us
+5121,ASPU,ASPU,aspen group,us
+5122,PBYI,PBYI,puma biotechnology,us
+5123,GMED,GMED,globus medical,us
+5124,NOW,NOW,servicenow,us
+5125,BLMN,BLMN,bloomin' brands,us
+5126,PANW,PANW,palo alto networks,us
+5127,FIVE,FIVE,five below,us
+5128,RLGY,RLGY,realogy holdings,us
+5129,PGTI,PGTI,pgt innovations,us
+5130,CVLT,CVLT,commvault systems,us
+5131,PTCT,PTCT,ptc therapeutics,us
+5132,QRTEA,QRTEA,qurate retail,us
+5133,SEM,SEM,select medical holdings,us
+5134,KBR,KBR,kbr,us
+5135,EHTH,EHTH,ehealth,us
+5136,LMAT,LMAT,lemaitre vascular,us
+5137,INFU,INFU,infusystem holdings,us
+5138,ICFI,ICFI,icf international,us
+5139,TNL,TNL,travel + leisure,us
+5140,EVR,EVR,evercore,us
+5141,ORBC,ORBC,orbcomm,us
+5142,ALGT,ALGT,allegiant travel,us
+5143,FOLD,FOLD,amicus therapeutics,us
+5144,WU,WU,western union,us
+5145,CELH,CELH,celsius holdings,us
+5146,HBI,HBI,hanesbrands,us
+5147,FSLR,FSLR,first solar,us
+5148,FRST,FRST,primis financial,us
+5149,WLDN,WLDN,willdan group,us
+5150,PRIM,PRIM,primoris services,us
+5151,AWI,AWI,armstrong world industries,us
+5152,SBH,SBH,sally beauty holdings,us
+5153,IPGP,IPGP,ipg photonics,us
+5154,CPRX,CPRX,catalyst pharmaceuticals,us
+5155,ATHX,ATHX,athersys,us
+5156,EBS,EBS,emergent biosolutions,us
+5157,AIMC,AIMC,altra industrial motion,us
+5158,TAST,TAST,carrols restaurant group,us
+5159,CLNE,CLNE,clean energy fuels,us
+5160,AVAV,AVAV,aerovironment,us
+5161,NCMI,NCMI,national cinemedia,us
+5162,SMCI,SMCI,super micro computer,us
+5163,EIG,EIG,employers holdings,us
+5164,PRTS,PRTS,carpartscom,us
+5165,HROW,HROW,harrow health,us
+5166,ARAY,ARAY,accuray,us
+5167,IBKR,IBKR,interactive brokers group,us
+5168,UFS,UFS,domtar,us
+5169,BR,BR,broadridge financial solutions,us
+5170,FRBA,FRBA,first bank,us
+5171,CNK,CNK,cinemark holdings,us
+5172,CAI,CAI,cai international,us
+5173,TTGT,TTGT,techtarget,us
+5174,PODD,PODD,insulet,us
+5175,INFN,INFN,infinera,us
+5176,JAZZ,JAZZ,jazz pharmaceuticals,us
+5177,LLNW,LLNW,limelight networks,us
+5178,CDXC,CDXC,chromadex,us
+5179,DFS,DFS,discover financial services,us
+5180,PRO,PRO,pros holdings,us
+5181,SCOR,SCOR,comscore,us
+5182,MASI,MASI,masimo,us
+5183,ALSN,ALSN,allison transmission holdings,us
+5184,G,G,genpact,us
+5185,VMW,VMW,vmware,us
+5186,TDC,TDC,teradata,us
+5187,MSCI,MSCI,msci,us
+5188,LPLA,LPLA,lpl financial holdings,us
+5189,CVI,CVI,cvr energy,us
+5190,ULTA,ULTA,ulta beauty,us
+5191,APEI,APEI,american public education,us
+5192,ENSG,ENSG,ensign group,us
+5193,LL,LL,lumber liquidators holdings,us
+5194,SCU,SCU,sculptor capital management,us
+5195,NFBK,NFBK,northfield bancorp (staten island ny),us
+5196,TITN,TITN,titan machinery,us
+5197,LRN,LRN,stride,us
+5198,ACBI,ACBI,atlantic capital bancshares,us
+5199,OESX,OESX,orion energy systems,us
+5200,FOR,FOR,forestar group,us
+5201,SATS,SATS,echostar,us
+5202,EBSB,EBSB,meridian bancorp,us
+5203,CSII,CSII,cardiovascular systems,us
+5204,AWK,AWK,american water works,us
+5205,V,V,visa,us
+5206,CFX,CFX,colfax,us
+5207,FN,FN,fabrinet,us
+5208,HCCI,HCCI,heritagecrystal clean,us
+5209,PM,PM,philip morris international,us
+5210,HI,HI,hillenbrand,us
+5211,CCXI,CCXI,chemocentryx,us
+5212,ZGNX,ZGNX,zogenix,us
+5213,SWI,SWI,solarwinds,us
+5214,ERII,ERII,energy recovery,us
+5215,KKR,KKR,kkr,us
+5216,VRS,VRS,verso,us
+5217,NX,NX,quanex building products,us
+5218,CDNA,CDNA,caredx,us
+5219,FLDM,FLDM,fluidigm,us
+5220,CDXS,CDXS,codexis,us
+5221,IPI,IPI,intrepid potash,us
+5222,ECHO,ECHO,echo global logistics,us
+5223,MRC,MRC,mrc global,us
+5224,IOVA,IOVA,iovance biotherapeutics,us
+5225,LOPE,LOPE,grand canyon education,us
+5226,SB,SB,safe bulkers,us
+5227,MG,MG,mistras group,us
+5228,BKI,BKI,black knight,us
+5229,ATVI,ATVI,activision blizzard,us
+5230,TREE,TREE,lendingtree,us
+5231,JBT,JBT,john bean technologies,us
+5232,RXN,RXN,rexnord,us
+5233,BERY,BERY,berry global group,us
+5234,MYRG,MYRG,myr group,us
+5235,VRSK,VRSK,verisk analytics,us
+5236,AVGO,AVGO,broadcom,us
+5237,MDRX,MDRX,allscripts healthcare solutions,us
+5238,GPRE,GPRE,green plains,us
+5239,DMRC,DMRC,digimarc,us
+5240,SLCA,SLCA,us silica holdings,us
+5241,ADUS,ADUS,addus homecare,us
+5242,TXMD,TXMD,therapeuticsmd,us
+5243,H,H,hyatt hotels,us
+5244,FTNT,FTNT,fortinet,us
+5245,KAR,KAR,kar auction services,us
+5246,OMER,OMER,omeros,us
+5247,RCM,RCM,r1 rcm,us
+5248,IRDM,IRDM,iridium communications,us
+5249,GNRC,GNRC,generac holdings,us
+5250,CALX,CALX,calix,us
+5251,ST,ST,sensata technologies holding,us
+5252,CRMD,CRMD,cormedix,us
+5253,SPSC,SPSC,sps commerce,us
+5254,AVEO,AVEO,aveo pharmaceuticals,us
+5255,MSGN,MSGN,msg networks,us
+5256,FIBK,FIBK,first interstate bancsystem,us
+5257,APO,APO,apollo global management,us
+5258,IRWD,IRWD,ironwood pharmaceuticals,us
+5259,PLOW,PLOW,douglas dynamics,us
+5260,QNST,QNST,quinstreet,us
+5261,EXPR,EXPR,express,us
+5262,STNG,STNG,scorpio tankers,us
+5263,GDOT,GDOT,green dot,us
+5264,CBOE,CBOE,cboe global markets,us
+5265,MXL,MXL,maxlinear,us
+5266,ENV,ENV,envestnet,us
+5267,AOSL,AOSL,alpha omega semiconductor,us
+5268,FLT,FLT,fleetcor technologies,us
+5269,NPTN,NPTN,neophotonics,us
+5270,AMRS,AMRS,amyris,us
+5271,FAF,FAF,first american financial,us
+5272,TSLA,TSLA,tesla,us
+5273,AMRC,AMRC,ameresco,us
+5274,VPG,VPG,vishay precision group,us
+5275,VRA,VRA,vera bradley,us
+5276,BWXT,BWXT,bwx technologies,us
+5277,ASMB,ASMB,assembly biosciences,us
+5278,HZNP,HZNP,horizon therapeutics public,us
+5279,WD,WD,walker dunlop,us
+5280,CLAR,CLAR,clarus,us
+5281,EVTC,EVTC,evertec,us
+5282,PACB,PACB,pacific biosciences california,us
+5283,TRGP,TRGP,targa resources,us
+5284,SAVE,SAVE,spirit airlines,us
+5285,CSOD,CSOD,cornerstone ondemand,us
+5286,CMRE,CMRE,costamare,us
+5287,BKU,BKU,bankunited,us
+5288,PCRX,PCRX,pacira biosciences,us
+5289,BAH,BAH,booz allen hamilton holding,us
+5290,ACRX,ACRX,acelrx pharmaceuticals,us
+5291,REVG,REVG,rev group,us
+5292,SUPN,SUPN,supernus pharmaceuticals,us
+5293,KOS,KOS,kosmos energy,us
+5294,AL,AL,air lease,us
+5295,WIFI,WIFI,boingo wireless,us
+5296,HII,HII,huntington ingalls industries,us
+5297,THR,THR,thermon group holdings,us
+5298,SEAS,SEAS,seaworld entertainment,us
+5299,SXC,SXC,suncoke energy,us
+5300,ARMK,ARMK,aramark,us
+5301,CHEF,CHEF,chefs' warehouse,us
+5302,MPC,MPC,marathon petroleum,us
+5303,ZG,ZG,zillow group,us
+5304,LIVX,LIVX,livexlive media,us
+5305,HMST,HMST,homestreet,us
+5306,MSBI,MSBI,midland states bancorp,us
+5307,RM,RM,regional management,us
+5308,GRPN,GRPN,groupon,us
+5309,AMCX,AMCX,amc networks,us
+5310,ENPH,ENPH,enphase energy,us
+5311,ASPN,ASPN,aspen aerogels,us
+5312,TSE,TSE,trinseo,us
+5313,TLYS,TLYS,tilly's,us
+5314,ZNGA,ZNGA,zynga,us
+5315,REGI,REGI,renewable energy group,us
+5316,PRLB,PRLB,proto labs,us
+5317,EPAM,EPAM,epam systems,us
+5318,BCEI,BCEI,bonanza creek energy,us
+5319,VCRA,VCRA,vocera communications,us
+5320,MTSI,MTSI,macom technology solutions holdings,us
+5321,CHUY,CHUY,chuy's holdings,us
+5322,MTDR,MTDR,matador resources,us
+5323,BCOV,BCOV,brightcove,us
+5324,FBHS,FBHS,fortune brands home security,us
+5325,FRG,FRG,franchise group,us
+5326,CG,CG,carlyle group,us
+5327,XYL,XYL,xylem,us
+5328,ENVA,ENVA,enova international,us
+5329,GO,GO,grocery outlet holding,us
+5330,VVNT,VVNT,vivint smart home,us
+5331,AXGN,AXGN,axogen,us
+5332,GWRE,GWRE,guidewire software,us
+5333,NBHC,NBHC,national bank holdings,us
+5334,VAC,VAC,marriott vacations worldwide,us
+5335,ACHC,ACHC,acadia healthcare,us
+5336,VSTM,VSTM,verastem,us
+5337,PBF,PBF,pbf energy,us
+5338,YELP,YELP,yelp,us
+5339,FBIO,FBIO,fortress biotech,us
+5340,CPRI,CPRI,capri holdings,us
+5341,TRIP,TRIP,tripadvisor,us
+5342,IGT,IGT,international game technology,us
+5343,GLNG,GLNG,golar lng,us
+5344,TPH,TPH,tri pointe homes,us
+5345,CBRE,CBRE,cbre group,us
+5346,BLKB,BLKB,blackbaud,us
+5347,TRTN,TRTN,triton international,us
+5348,SNDR,SNDR,schneider national,us
+5349,ALNY,ALNY,alnylam pharmaceuticals,us
+5350,NUVA,NUVA,nuvasive,us
+5351,ANGO,ANGO,angiodynamics,us
+5352,CATM,CATM,cardtronics,us
+5353,UCTT,UCTT,ultra clean holdings,us
+5354,CNS,CNS,cohen steers,us
+5355,LXFR,LXFR,luxfer holdings,us
+5356,SBBP,SBBP,strongbridge biopharma,us
+5357,LYB,LYB,lyondellbasell industries,us
+5358,FRO,FRO,frontline,us
+5359,ESI,ESI,element solutions,us
+5360,NETI,NETI,eneti,us
+5361,ALLE,ALLE,allegion,us
+5362,GAN,GAN,gan,us
+5363,LPG,LPG,dorian lpg,us
+5364,ATH,ATH,athene holding,us
+5365,APG,APG,api group,us
+5366,NVT,NVT,nvent electric,us
+5367,ACA,ACA,arcosa,us
+5368,IMUX,IMUX,immunic,us
+5369,ESGC,ESGC,eros stx global,us
+5370,IMAX,IMAX,imax,us
+5371,LULU,LULU,lululemon athletica,us
