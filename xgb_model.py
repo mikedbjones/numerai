@@ -17,7 +17,7 @@ from sklearn.neural_network import MLPRegressor
 from sklearn import preprocessing
 from datetime import datetime
 import numerapi
-import pyinputplus as pyip
+# import pyinputplus as pyip
 
 TARGET_NAME = f"target"
 PREDICTION_NAME = f"prediction"
@@ -226,7 +226,8 @@ def get_time():
 
 
 def download_data():
-    download = pyip.inputChoice(['y', 'n'], prompt='Download current data? y/n...')
+    	# download = pyip.inputChoice(['y', 'n'], prompt='Download current data? y/n...', timeout=5)
+    download = 'y'
     if download == 'y' or download == 'Y':
         print(f'{get_time()} Downloading...', end='', flush=True)
         current_data = napi.download_current_dataset(dest_path='/home/mike/Documents/numerai/numerai_data')
@@ -410,7 +411,8 @@ def upload_predictions(numerai_model_name, path=path_server):
     napi = numerapi.NumerAPI(PUBLIC_ID, SECRET_KEY)
     model_id = napi.get_models()[f'{numerai_model_name}']
 
-    submit = pyip.inputChoice(['y', 'n'], prompt='Submit to Numerai? y/n...')
+    # submit = pyip.inputChoice(['y', 'n'], prompt='Submit to Numerai? y/n...')
+    submit = 'y'
     if submit == 'y' or submit == 'Y':
         print(f'{get_time()} Submitting...', end='', flush=True)
         napi.upload_predictions(f'{path}submission_{numerai_model_name}.csv', model_id=model_id)
@@ -437,7 +439,8 @@ def main():
     feature_names_orig = feature_names[:310]
     
     def run_numerai_model(train, tourn, feature_names, feature_names_orig, numerai_model_name, model_round):
-        run = pyip.inputChoice(['y', 'n'], prompt=f'Run model {numerai_model_name}? y/n...')
+        # run = pyip.inputChoice(['y', 'n'], prompt=f'Run model {numerai_model_name}? y/n...')
+        run = 'y'
         if run == 'y' or run == 'Y':
             print(f'{get_time()} Running model {numerai_model_name} ...')
             train, tourn, model_round = run_model_xgb(train, tourn, feature_names, numerai_model_name, model_round)
