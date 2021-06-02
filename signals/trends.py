@@ -178,6 +178,10 @@ def ticker_trend(ticker):
     trend_history = trend_history.rename(columns=mapper)
     return trend_history
     
+# print time
+t = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+print(f'{t}')
+
 # get tickers to download trends for (US & trends from 2004 & no error)
 print(f'Loading tickers...', end='', flush=True)
 names_us_2004 = names[(names['market_country'] == 'us') & (names['trends_2004'] == True) & (names['error_raised'] != True)]
@@ -214,3 +218,4 @@ print(f'{len(trends)} rows already obtained across {len(trends["ticker"].unique(
 trends = make_big_ticker_trends(names_us_2004, trends)
 #else:
 #    print(f'Stopping.')
+print('--------------------------\n')
