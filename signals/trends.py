@@ -206,8 +206,11 @@ def make_big_ticker_trends(names, trends):
             print('Woken!')
     return pd.concat([trends] + to_concat)
     
-print(f'Importing...', end='', flush=True)
+print(f'Importing trends.csv...', end='', flush=True)
 trends = pd.read_csv('trends.csv', parse_dates = ['date'], index_col='date')
 print(f'{len(trends)} rows already obtained across {len(trends["ticker"].unique())} tickers. {len(names_us_2004)-len(trends["ticker"].unique())} remaining.')
-
+#cont = pyip.inputChoice(['y', 'n'], prompt='Continue? y/n...', default='y', timeout=5)
+#if cont == 'y' or cont == 'Y':
 trends = make_big_ticker_trends(names_us_2004, trends)
+#else:
+#    print(f'Stopping.')
