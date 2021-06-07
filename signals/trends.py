@@ -5,6 +5,9 @@ import numpy as np
 import json
 import time
 import pyinputplus as pyip
+import os
+
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # import english_stock_ticker_names.csv, set as df 'names'
 names = pd.read_csv('english_stock_ticker_names.csv', index_col=0)
@@ -16,8 +19,11 @@ with open('trends_2004.json') as f:
 names['trends_2004'] = pd.Series(trends_2004_dict)
 names
 
-# set error_raised to True for CLF
+# set error_raised to True for problem tickers
 names.loc['CLF', 'error_raised'] = True
+names.loc['OZK', 'error_raised'] = True
+names.loc['FHI', 'error_raised'] = True
+names.loc['ONTO', 'error_raised'] = True
 
 def make_keywords(ticker):
     #keyword_list = [f'{ticker_name_map[ticker]} stock', f'{ticker} stock']
