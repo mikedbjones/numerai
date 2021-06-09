@@ -24,6 +24,7 @@ names.loc['CLF', 'error_raised'] = True
 names.loc['OZK', 'error_raised'] = True
 names.loc['FHI', 'error_raised'] = True
 names.loc['ONTO', 'error_raised'] = True
+names.loc['TALO', 'error_raised'] = True
 
 def make_keywords(ticker):
     #keyword_list = [f'{ticker_name_map[ticker]} stock', f'{ticker} stock']
@@ -83,8 +84,14 @@ def get_overlapping_trends(keyword, first_date=datetime(year=2004, month=1, day=
 
             print(f'Downloading trends for \'{keyword}\' from {start_date} to {start_date_plus}')
             trends = pytrend.interest_over_time()
-            trends.drop(columns=['isPartial'], inplace=True)
-            trends_list.append(trends)
+            
+            # if no trends found, return a pair of empty dataframes
+            if trends.empty:
+                print('None found')
+                return [pd.DataFrame(), pd.DataFrame()]
+            else:
+                trends.drop(columns=['isPartial'], inplace=True)
+                trends_list.append(trends)
 
             next_date = start_date + timedelta(weeks=135)
         else:
