@@ -19,6 +19,8 @@ from datetime import datetime
 import numerapi
 # import pyinputplus as pyip
 
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
 TARGET_NAME = f"target"
 PREDICTION_NAME = f"prediction"
 
