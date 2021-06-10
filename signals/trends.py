@@ -17,7 +17,6 @@ names = names.set_index('numerai_ticker')
 with open('trends_2004.json') as f:
     trends_2004_dict = json.load(f)    
 names['trends_2004'] = pd.Series(trends_2004_dict)
-names
 
 # set error_raised to True for problem tickers
 names.loc['CLF', 'error_raised'] = True
@@ -33,6 +32,23 @@ def make_keywords(ticker):
     return keyword_list
     
 def get_overlapping_trends(keyword, first_date=datetime(year=2004, month=1, day=4)):
+
+    """
+    Return a list of overlapping trends (example below), with isPartial column dropped
+    
+    eg:
+    
+    date        | keyword
+    2016-04-10  |   44
+    2016-04-17  |   42
+    2016-04-24  |   96
+    ...         |   ...
+    
+    Find the first set of 135 weeks with a trend history.
+    Then find all the sets of 270 weeks after this, each overlapping by 135.
+    
+    If no trends are found, return a pair of empty dataframes
+    """
     
     if first_date.weekday() != 6:
         raise ValueError('first_date is not a Sunday')
@@ -64,6 +80,10 @@ def get_overlapping_trends(keyword, first_date=datetime(year=2004, month=1, day=
                 return [trends, trends]
         else:
             print('Downloaded successfully')
+            
+            # force string type to avoid numpy interpreting isPartial as boolean
+            trends['isPartial'] = trends['isPartial'].astype(str)
+            trends = trends[trends['isPartial'] == 'False']
             trends.drop(columns=['isPartial'], inplace=True)
             trends_list.append(trends)
             first_135 = True
@@ -90,6 +110,9 @@ def get_overlapping_trends(keyword, first_date=datetime(year=2004, month=1, day=
                 print('None found')
                 return [pd.DataFrame(), pd.DataFrame()]
             else:
+                # force string type to avoid numpy interpreting isPartial as boolean
+                trends['isPartial'] = trends['isPartial'].astype(str)
+                trends = trends[trends['isPartial'] == 'False']
                 trends.drop(columns=['isPartial'], inplace=True)
                 trends_list.append(trends)
 
@@ -102,6 +125,7 @@ def get_overlapping_trends(keyword, first_date=datetime(year=2004, month=1, day=
 def scale(to_scale, scale_by):
     '''
     Scale one series by another
+    After scaling, the min and max of the two series will be the same
     '''
     factor = scale_by.max() - scale_by.min()
     scaled = factor * (to_scale - to_scale.min()) / (to_scale.max() - to_scale.min())
@@ -190,15 +214,6 @@ def ticker_trend(ticker):
     mapper = {keyword: 'name'}
     trend_history = trend_history.rename(columns=mapper)
     return trend_history
-    
-# print time
-t = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-print(f'{t}')
-
-# get tickers to download trends for (US & trends from 2004 & no error)
-print(f'Loading tickers...', end='', flush=True)
-names_us_2004 = names[(names['market_country'] == 'us') & (names['trends_2004'] == True) & (names['error_raised'] != True)]
-print(f'{len(names_us_2004)} loaded.')
 
 def make_big_ticker_trends(names, trends):
     """
@@ -223,12 +238,26 @@ def make_big_ticker_trends(names, trends):
             print('Woken!')
     return pd.concat([trends] + to_concat)
     
-print(f'Importing trends.csv...', end='', flush=True)
-trends = pd.read_csv('trends.csv', parse_dates = ['date'], index_col='date')
-print(f'{len(trends)} rows already obtained across {len(trends["ticker"].unique())} tickers. {len(names_us_2004)-len(trends["ticker"].unique())} remaining.')
-#cont = pyip.inputChoice(['y', 'n'], prompt='Continue? y/n...', default='y', timeout=5)
-#if cont == 'y' or cont == 'Y':
-trends = make_big_ticker_trends(names_us_2004, trends)
-#else:
-#    print(f'Stopping.')
-print('--------------------------\n')
+def main():
+    
+    # print time
+    t = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    print(f'{t}')
+
+    # get tickers to download trends for (US & trends from 2004 & no error)
+    print(f'Loading tickers...', end='', flush=True)
+    names_us_2004 = names[(names['market_country'] == 'us') & (names['trends_2004'] == True) & (names['error_raised'] != True)]
+    print(f'{len(names_us_2004)} loaded.')
+    
+    print(f'Importing trends.csv...', end='', flush=True)
+    trends = pd.read_csv('trends.csv', parse_dates = ['date'], index_col='date')
+    print(f'{len(trends)} rows already obtained across {len(trends["ticker"].unique())} tickers. {len(names_us_2004)-len(trends["ticker"].unique())} remaining.')
+    #cont = pyip.inputChoice(['y', 'n'], prompt='Continue? y/n...', default='y', timeout=5)
+    #if cont == 'y' or cont == 'Y':
+    trends = make_big_ticker_trends(names_us_2004, trends)
+    #else:
+    #    print(f'Stopping.')
+    print('--------------------------\n')
+    
+if __name__ == '__main__':
+    main()
