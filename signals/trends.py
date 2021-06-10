@@ -228,10 +228,13 @@ def make_big_ticker_trends(names, trends):
         trend_history = ticker_trend(ticker)
         to_concat.append(trend_history)
         i += 1
-        # export CSV every 1
-        # if i % 5 == 0:
-        print('Exporting...')
-        pd.concat([trends] + to_concat).to_csv('trends.csv')
+        
+        # export CSV every 5
+        if i % 5 == 0:
+            print('Exporting...')
+            pd.concat([trends] + to_concat).to_csv('trends.csv')
+            
+        # sleep every 5
         if i % 5 == 0:
             print('Sleeping for 60 seconds...', end='', flush=True)
             time.sleep(60)
