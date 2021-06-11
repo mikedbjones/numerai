@@ -53,7 +53,7 @@ def get_overlapping_trends(keyword, first_date=datetime(year=2004, month=1, day=
     if first_date.weekday() != 6:
         raise ValueError('first_date is not a Sunday')
     
-    pytrend = TrendReq()
+    pytrend = TrendReq(timeout=(10,25), retries=2, backoff_factor=0.1)
     trends_list = []
     start_dates = []
     
@@ -99,7 +99,7 @@ def get_overlapping_trends(keyword, first_date=datetime(year=2004, month=1, day=
             # 270 weeks seems to be the max that works on a weekly basis
             start_date_plus = start_date + timedelta(weeks=269)
             timeframe = f'{start_date.strftime("%Y-%m-%d")} {start_date_plus.strftime("%Y-%m-%d")}'
-            pytrend = TrendReq()
+            pytrend = TrendReq(timeout=(10,25), retries=2, backoff_factor=0.1)
             pytrend.build_payload([keyword], timeframe=timeframe)
 
             print(f'Downloading trends for \'{keyword}\' from {start_date} to {start_date_plus}')
