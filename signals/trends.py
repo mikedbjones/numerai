@@ -11,7 +11,7 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # import english_stock_ticker_names.csv, set as df 'names'
 names = pd.read_csv('english_stock_ticker_names.csv', index_col=0)
-names = names.set_index('numerai_ticker')
+#names = names.set_index('numerai_ticker')
 
 def make_keywords(ticker):
     #keyword_list = [f'{ticker_name_map[ticker]} stock', f'{ticker} stock']
