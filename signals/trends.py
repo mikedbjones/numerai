@@ -13,18 +13,6 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 names = pd.read_csv('english_stock_ticker_names.csv', index_col=0)
 names = names.set_index('numerai_ticker')
 
-# open dictionary with 2004 trends info
-with open('trends_2004.json') as f:
-    trends_2004_dict = json.load(f)    
-names['trends_2004'] = pd.Series(trends_2004_dict)
-
-# set error_raised to True for problem tickers
-names.loc['CLF', 'error_raised'] = True
-names.loc['OZK', 'error_raised'] = True
-names.loc['FHI', 'error_raised'] = True
-names.loc['ONTO', 'error_raised'] = True
-names.loc['TALO', 'error_raised'] = True
-
 def make_keywords(ticker):
     #keyword_list = [f'{ticker_name_map[ticker]} stock', f'{ticker} stock']
     ticker_cleaned, name = names.loc[ticker].tolist()
@@ -204,18 +192,37 @@ def get_trend_history(keyword_list, first_date=datetime(year=2004, month=1, day=
         uni_scales.append(uni_scale)
     return pd.concat(uni_scales, axis=1)
     
-def ticker_trend(ticker):
+def ticker_trend(ticker, keyword_list, column_names):
+    if len(keyword_list) != len(column_names):
+        raise ValueError('keyword_list and column_names must be same length')
+    
     #keyword_list = make_keywords(ticker)
-    keyword = names.loc[ticker]['name']
-    trend_history = get_trend_history([keyword])
+    #keyword = names.loc[ticker]['name']
+    trend_history = get_trend_history(keyword_list)
     trend_history['ticker'] = ticker
     
-    #mapper = {keyword_list[0]: 'ticker stock', keyword_list[1]: 'name stock'}
-    mapper = {keyword: 'name'}
+    mapper = {}
+    for i in range(len(keyword_list)):
+        mapper[keyword_list[i]] = column_names[i]
+    
+    #mapper = {keyword: 'name'}
     trend_history = trend_history.rename(columns=mapper)
     return trend_history
 
-def make_big_ticker_trends(names, trends):
+def keyword_generator_1(ticker):
+    # generate keywords using name only, eg tesla: ['tesla']
+    # return list of keywords and list of column names
+    return [names.loc[ticker]['name']], 'name'
+    
+def keyword_generator_2(ticker):
+    # generate keywords using name with 'buy' and 'stock' eg tesla: ['tesla stock', 'buy tesla stock']
+    return [f"{names.loc[ticker]['name']} stock", f"buy {names.loc[ticker]['name']} stock"], ['name stock', 'buy name stock']
+    
+def keyword_generator_3(ticker):
+    # generate keywords using name and ticker with 'stock' eg tesla: ['tesla stock', 'tsla stock']
+    return [f"{names.loc[ticker]['name']} stock", f"{names.loc[ticker]['ticker_cleaned']} stock"], ['name stock', 'ticker stock']
+
+def make_big_ticker_trends(names, trends, keyword_generator_func):
     """
     Get trends for names that are not already in trends
     """
@@ -225,7 +232,8 @@ def make_big_ticker_trends(names, trends):
     tickers_len = len(tickers)
     for ticker in tickers:
         print(f'{i}/{tickers_len}')
-        trend_history = ticker_trend(ticker)
+        keyword_list, column_names = keyword_generator_func(ticker)
+        trend_history = ticker_trend(ticker, keyword_list, column_names)
         to_concat.append(trend_history)
         i += 1
         
@@ -246,6 +254,11 @@ def main():
     # print time
     t = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     print(f'{t}')
+    
+    # open dictionary with 2004 trends info
+    with open('trends_2004.json') as f:
+        trends_2004_dict = json.load(f)    
+    names['trends_2004'] = pd.Series(trends_2004_dict)
 
     # get tickers to download trends for (US & trends from 2004 & no error)
     print(f'Loading tickers...', end='', flush=True)
