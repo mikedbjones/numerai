@@ -192,13 +192,13 @@ def get_trend_history(keyword_list, first_date=datetime(year=2004, month=1, day=
         uni_scales.append(uni_scale)
     return pd.concat(uni_scales, axis=1)
     
-def ticker_trend(ticker, keyword_list, column_names):
+def ticker_trend(ticker, keyword_list, column_names, first_date=datetime(year=2004, month=1, day=4)):
     if len(keyword_list) != len(column_names):
         raise ValueError('keyword_list and column_names must be same length')
     
     #keyword_list = make_keywords(ticker)
     #keyword = names.loc[ticker]['name']
-    trend_history = get_trend_history(keyword_list)
+    trend_history = get_trend_history(keyword_list, first_date)
     trend_history['ticker'] = ticker
     
     mapper = {}
